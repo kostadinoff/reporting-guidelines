@@ -45,6 +45,7 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 |---|---|---|---|
 | AGREE Reporting Checklist | 2016 | 23 | full item text |
 | ARRIVE 2.0 | 2.0 (2020) | 21 | full item text — supersedes ARRIVE (2010) |
+| BQQRG | 2025 | 24 | full item text |
 | Braun & Clarke 15-point checklist | 2013 | 15 | full item text |
 | CARE | 2013 | 13 | full item text |
 | CHEERS 2022 | 2022 | 28 | full item text — supersedes CHEERS 2013 |
@@ -65,6 +66,7 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | RECORD-PE | 2018 | 15 | full item text — extends strobe-2007, record-2015 |
 | RIGHT | 2017 | 22 | full item text |
 | RIGHT for PVG | 2021 | 17 | full item text — extends right-2017 |
+| Simulation-based research extensions | 2016 | 11 | full item text — extends consort-2025, strobe-2007 |
 | SPIRIT 2025 | 2025 | 34 | full item text — supersedes SPIRIT 2013 |
 | SPIRIT-AI | 2020 | 13 | full item text — extends spirit-2025 |
 | SQUIRE 2.0 | 2.0 (2015) | 18 | full item text — supersedes SQUIRE 1.0 |
@@ -76,8 +78,6 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | TRIPOD | 2015 | 22 | full item text |
 | TRIPOD+AI | 2024 | 27 | full item text — supersedes TRIPOD 2015 |
 | TRIPOD+AI for Abstracts | 2024 | 13 | full item text — extends tripod-ai-2024 |
-| Braun & Clarke values-based approach | 2025 | — | metadata only |
-| Simulation-based research extensions | 2016 | — | metadata only |
 
 Every guideline in the original scope is now present with full item text. Remaining gaps
 are extension checklists (PRISMA-ScR, PRISMA-DTA, STROBE-MR, CONSORT-AI, ...) and the five

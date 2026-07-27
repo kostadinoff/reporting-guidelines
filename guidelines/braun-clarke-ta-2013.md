@@ -20,7 +20,7 @@ last_checked: 2026-07-27
 in this repository: it asks whether the analysis was done well, not whether the write-up
 contains the required sections. Use it alongside COREQ or SRQR, not instead of them.
 
-**Do not confuse with `qualitative-values-2025.md`**, which is Braun & Clarke's later
+**Do not confuse with `bqqrg-2025.md`**, which is Braun & Clarke's later
 argument *against* checklist-based reporting guidelines. The two are compatible: this
 checklist interrogates analytic craft within a declared approach; the 2025 paper objects to
 imposing post-positivist reporting criteria across incompatible paradigms.

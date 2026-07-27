@@ -39,7 +39,6 @@ See the table in [README.md](README.md) for versions and item counts.
 | Guideline | Version | File | Note |
 |---|---|---|---|
 | Simulation extensions | 2016 | `guidelines/simulation-2016.md` | Extension to CONSORT and STROBE |
-| Braun & Clarke | 2025 | `guidelines/qualitative-values-2025.md` | Not a checklist — a critique of checklist reporting in qualitative research |
 
 ## Missing — to add
 
