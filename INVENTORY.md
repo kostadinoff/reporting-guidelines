@@ -13,47 +13,40 @@ Status values:
 
 ## Present, complete
 
-| Guideline | Version | Items | Verified count | File | Source format |
-|---|---|---|---|---|---|
-| CONSORT | 2025 | 42 rows | matches published | `guidelines/consort-2025.md` | DOCX |
-| SPIRIT | 2025 | 53 rows | matches published | `guidelines/spirit-2025.md` | DOCX |
-| STROBE | 2007 | 22 items | 22 ✔ | `guidelines/strobe-2007.md` | DOCX |
-| PRISMA | 2020 | 42 rows (27 items + sub-items) | ✔ | `guidelines/prisma-2020.md` | DOCX |
-| STARD | 2015 | 34 rows (30 items + sub-items) | ✔ | `guidelines/stard-2015.md` | DOCX |
-| **TRIPOD+AI** | **2024** | **27 items / 52 blocks** | **1-27 all present ✔** | `guidelines/tripod-ai-2024.md` | Article Table 2 |
-| TRIPOD | 2015 | 22 items | 22 ✔ | `guidelines/tripod-2015.md` | PDF table — **superseded by TRIPOD+AI** |
-| PRISMA for Abstracts | 2020 | 12 items | 12 ✔ | `guidelines/prisma-abstracts-2020.md` | PDF checklist (CC BY 4.0) |
-| PRISMA-P | 2015 | 17 items / 26 blocks | ✔ | `guidelines/prisma-p-2015.md` | DOCX |
-| ARRIVE | 2.0 (2020) | 21 items | 21 ✔ | `guidelines/arrive-2.0.md` | PDF checklist |
-| **CODE-EHR** | **2022** | **8 items** | **8 ✔** | `guidelines/code-ehr-2022.md` | DOCX |
-| **RECORD** | **2015** | **13 items** | **13 ✔** | `guidelines/record-2015.md` | Article table |
-| **RECORD-PE** | **2018** | **15 items** | **15 ✔** | `guidelines/record-pe-2018.md` | Article Table 1 |
-| **RIGHT** | **2017** | **22 items / 35 blocks** | **✔** | `guidelines/right-2017.md` | Article table |
-| **SRQR** | **2014** | **21 items (S1-S21)** | **21 ✔** | `guidelines/srqr-2014.md` | Article Table 1 |
-| **RIGHT-PVG** | **2021** | **17 items / 12 topics** | **17 ✔** | `guidelines/right-pvg-2021.md` | Article Table 1 |
-| **TRIPOD+AI for Abstracts** | **2024** | **13 items** | **13 ✔** | `guidelines/tripod-ai-abstracts-2024.md` | Article Table 3 |
-| AGREE Reporting Checklist | 2016 | 23 items | 23 ✔ | `guidelines/agree-2016.md` | DOCX |
-| CARE | 2013 | 13 items | 13 ✔ | `guidelines/care-2013.md` | PDF checklist |
-| COREQ | 2007 | 32 items | 32 ✔ | `guidelines/coreq-2007.md` | PDF table |
-| SQUIRE | 2.0 (2015) | 18 items | 18 ✔ | `guidelines/squire-2.0.md` | PDF checklist |
-| CHEERS | 2022 | 28 items | 28 ✔ | `guidelines/cheers-2022.md` | PDF checklist |
+All item text verbatim, counts checked against the published guideline. 29 files.
+
+**Core designs** — CONSORT 2025, SPIRIT 2025, STROBE, PRISMA 2020, PRISMA-P, PRISMA for
+Abstracts, STARD 2015, TRIPOD+AI 2024, TRIPOD 2015 (superseded), AGREE, CARE, COREQ, SRQR,
+SQUIRE 2.0, CHEERS 2022, ARRIVE 2.0, RIGHT, RIGHT-PVG, MOOSE.
+
+**Routine / administrative data** — RECORD, RECORD-PE, CODE-EHR. Layer these on STROBE;
+the closest fit for NHIF and NCPHA work.
+
+**Extensions** — TIDieR (interventions), PRISMA-ScR (scoping reviews), STROBE-MR (Mendelian
+randomization), CONSORT-AI, SPIRIT-AI, CHEERS-AI, TRIPOD+AI for Abstracts.
+
+See the table in [README.md](README.md) for versions and item counts.
 
 ## Present, metadata only — item text still to transcribe
 
 | Guideline | Version | File | Note |
 |---|---|---|---|
-| MOOSE | 2000 | `guidelines/moose-2000.md` | Observational meta-analysis; largely superseded in practice by PRISMA 2020 |
-| TIDieR | 2014 | `guidelines/tidier-2014.md` | 12 items; extends CONSORT item 5 / SPIRIT item 11, not standalone |
 | GREET | 2016 | `guidelines/greet-2016.md` | Evidence-based-practice education; niche |
 | Simulation extensions | 2016 | `guidelines/simulation-2016.md` | Extension to CONSORT and STROBE |
 | Braun & Clarke | 2025 | `guidelines/qualitative-values-2025.md` | Not a checklist — a critique of checklist reporting in qualitative research |
 
 ## Missing — to add
 
-Ordered by how likely they are to be needed.
+Nothing from the original scope is missing. Remaining candidates are further extensions:
 
-| Guideline | Covers | Why it matters | Blocker |
-|---|---|---|---|
+| Guideline | Covers |
+|---|---|
+| PRISMA-DTA | Diagnostic test accuracy reviews |
+| PRISMA-S | Search-strategy reporting |
+| PRISMA-LSR / PRISMA-Equity | Living reviews; equity-focused reviews |
+| CONSORT-Outcomes 2022, CONSORT-Equity, CONSORT-ROUTINE | CONSORT extensions |
+| STARD-AI, DECIDE-AI, CLAIM | AI diagnostic accuracy, early clinical evaluation, medical imaging |
+| TRIPOD-Cluster | Prediction models accounting for clustering (referenced by TRIPOD+AI items 12d, 23b) |
 
 ### Extensions not yet included
 

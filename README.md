@@ -43,33 +43,38 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 
 | Guideline | Version | Items | Status |
 |---|---|---|---|
-| CONSORT | 2025 | 42 | full item text |
-| SPIRIT | 2025 | 53 | full item text |
-| STROBE | 2007 | 22 | full item text |
-| PRISMA | 2020 | 42 | full item text |
-| PRISMA for Abstracts | 2020 | 12 | full item text |
-| PRISMA-P | 2015 | 26 | full item text |
-| STARD | 2015 | 34 | full item text |
-| **TRIPOD+AI** | **2024** | **52** | **full item text — supersedes TRIPOD 2015** |
-| TRIPOD | 2015 | 37 | full item text — superseded, kept for appraising older papers |
 | AGREE Reporting Checklist | 2016 | 23 | full item text |
-| CARE | 2013 | 30 | full item text |
-| COREQ | 2007 | 32 | full item text |
-| SQUIRE | 2.0 (2015) | 18 | full item text |
-| CHEERS | 2022 | 28 | full item text |
-| ARRIVE | 2.0 (2020) | 21 | full item text |
+| ARRIVE 2.0 | 2.0 (2020) | 21 | full item text — supersedes ARRIVE (2010) |
+| CARE | 2013 | 13 | full item text |
+| CHEERS 2022 | 2022 | 28 | full item text — supersedes CHEERS 2013 |
+| CHEERS-AI | 2024 | 10 | full item text — extends cheers-2022 |
 | CODE-EHR | 2022 | 8 | full item text |
-| RECORD | 2015 | 13 | full item text — extends STROBE |
-| RECORD-PE | 2018 | 15 | full item text — extends STROBE + RECORD |
-| RIGHT | 2017 | 35 | full item text |
+| CONSORT 2025 | 2025 | 30 | full item text — supersedes CONSORT 2010 |
+| CONSORT-AI | 2020 | 14 | full item text — extends consort-2025 |
+| COREQ | 2007 | 32 | full item text |
+| MOOSE | 2000 | 34 | full item text |
+| PRISMA 2020 | 2020 | 27 | full item text — supersedes PRISMA 2009 |
+| PRISMA 2020 for Abstracts | 2020 | 12 | full item text — supersedes PRISMA for Abstracts (2013) |
+| PRISMA-P | 2015 | 17 | full item text |
+| PRISMA-ScR | 2018 | 22 | full item text — extends prisma-2020 |
+| RECORD | 2015 | 13 | full item text — extends strobe-2007 |
+| RECORD-PE | 2018 | 15 | full item text — extends strobe-2007, record-2015 |
+| RIGHT | 2017 | 22 | full item text |
+| RIGHT for PVG | 2021 | 17 | full item text — extends right-2017 |
+| SPIRIT 2025 | 2025 | 34 | full item text — supersedes SPIRIT 2013 |
+| SPIRIT-AI | 2020 | 13 | full item text — extends spirit-2025 |
+| SQUIRE 2.0 | 2.0 (2015) | 18 | full item text — supersedes SQUIRE 1.0 |
 | SRQR | 2014 | 21 | full item text |
-| RIGHT-PVG | 2021 | 17 | full item text — extends RIGHT |
-| TRIPOD+AI for Abstracts | 2024 | 13 | full item text |
-| MOOSE | 2000 | — | metadata only |
-| TIDieR | 2014 | — | metadata only |
+| STARD 2015 | 2015 | 30 | full item text — supersedes STARD 2003 |
+| STROBE | 2007 | 22 | full item text |
+| STROBE-MR | 2021 | 20 | full item text — extends strobe-2007 |
+| TIDieR | 2014 | 12 | full item text — extends consort-2025, spirit-2025 |
+| TRIPOD | 2015 | 22 | full item text |
+| TRIPOD+AI | 2024 | 27 | full item text — supersedes TRIPOD 2015 |
+| TRIPOD+AI for Abstracts | 2024 | 13 | full item text — extends tripod-ai-2024 |
+| Braun & Clarke values-based approach | 2025 | — | metadata only |
 | GREET | 2016 | — | metadata only |
-| Simulation extensions | 2016 | — | metadata only |
-| Braun & Clarke (critique) | 2025 | n/a | metadata only |
+| Simulation-based research extensions | 2016 | — | metadata only |
 
 Every guideline in the original scope is now present with full item text. Remaining gaps
 are extension checklists (PRISMA-ScR, PRISMA-DTA, STROBE-MR, CONSORT-AI, ...) and the five
