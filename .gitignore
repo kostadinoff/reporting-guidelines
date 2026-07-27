@@ -1,0 +1,9 @@
+# Source documents are never committed — only the derived Markdown.
+# Every guideline's DOI is recorded in references.bib, so sources are re-retrievable.
+*.pdf
+*.doc
+*.docx
+*.rtf
+
+# conversion scratch
+_staging/
