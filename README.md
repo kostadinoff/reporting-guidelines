@@ -64,13 +64,16 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | RIGHT | 2017 | 35 | full item text |
 | SRQR | 2014 | 21 | full item text |
 | RIGHT-PVG | 2021 | 17 | full item text — extends RIGHT |
+| TRIPOD+AI for Abstracts | 2024 | 13 | full item text |
 | MOOSE | 2000 | — | metadata only |
 | TIDieR | 2014 | — | metadata only |
 | GREET | 2016 | — | metadata only |
 | Simulation extensions | 2016 | — | metadata only |
 | Braun & Clarke (critique) | 2025 | n/a | metadata only |
 
-Still missing: **TRIPOD+AI for Abstracts** and most other extension checklists. See [INVENTORY.md](INVENTORY.md).
+Every guideline in the original scope is now present with full item text. Remaining gaps
+are extension checklists (PRISMA-ScR, PRISMA-DTA, STROBE-MR, CONSORT-AI, ...) and the five
+metadata-only files listed in [INVENTORY.md](INVENTORY.md). See [INVENTORY.md](INVENTORY.md).
 
 ## Provenance and licensing
 

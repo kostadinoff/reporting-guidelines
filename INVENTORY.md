@@ -31,6 +31,7 @@ Status values:
 | **RIGHT** | **2017** | **22 items / 35 blocks** | **✔** | `guidelines/right-2017.md` | Article table |
 | **SRQR** | **2014** | **21 items (S1-S21)** | **21 ✔** | `guidelines/srqr-2014.md` | Article Table 1 |
 | **RIGHT-PVG** | **2021** | **17 items / 12 topics** | **17 ✔** | `guidelines/right-pvg-2021.md` | Article Table 1 |
+| **TRIPOD+AI for Abstracts** | **2024** | **13 items** | **13 ✔** | `guidelines/tripod-ai-abstracts-2024.md` | Article Table 3 |
 | AGREE Reporting Checklist | 2016 | 23 items | 23 ✔ | `guidelines/agree-2016.md` | DOCX |
 | CARE | 2013 | 13 items | 13 ✔ | `guidelines/care-2013.md` | PDF checklist |
 | COREQ | 2007 | 32 items | 32 ✔ | `guidelines/coreq-2007.md` | PDF table |
@@ -53,7 +54,6 @@ Ordered by how likely they are to be needed.
 
 | Guideline | Covers | Why it matters | Blocker |
 |---|---|---|---|
-| **TRIPOD+AI for Abstracts** | Abstracts of prediction-model studies | TRIPOD+AI item 2 defers to it | Not downloaded |
 
 ### Extensions not yet included
 
@@ -88,6 +88,8 @@ Guidelines that changed recently, or are expected to:
   case-control, and cross-sectional designs is here; the three separate per-design files are
   not. The combined file marks design-specific items with an asterisk, which covers most
   practical use.
+- **One footnote missing.** TRIPOD+AI for Abstracts items 7 and 10 carry a `†` marker whose
+  footnote text was not captured; flagged in the file itself.
 - **Worked examples omitted from RIGHT-PVG.** Its published Table 1 pairs each item with
   several pages of example text from real patient booklets. Those are illustrative, not
   normative; only item text is reproduced. Consult the paper for examples.
