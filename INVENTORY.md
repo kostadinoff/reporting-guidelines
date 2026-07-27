@@ -1,7 +1,7 @@
 # Inventory
 
 Status of every guideline in this repository, what is still missing, and what to watch for
-version drift. Last full review: **2026-07-27**.
+version drift. Last full review: **2026-07-27** (second pass, same day).
 
 Status values:
 
@@ -20,7 +20,12 @@ Status values:
 | STROBE | 2007 | 22 items | 22 ✔ | `guidelines/strobe-2007.md` | DOCX |
 | PRISMA | 2020 | 42 rows (27 items + sub-items) | ✔ | `guidelines/prisma-2020.md` | DOCX |
 | STARD | 2015 | 34 rows (30 items + sub-items) | ✔ | `guidelines/stard-2015.md` | DOCX |
-| TRIPOD | 2015 | 22 items | 22 ✔ | `guidelines/tripod-2015.md` | PDF table |
+| **TRIPOD+AI** | **2024** | **27 items / 52 blocks** | **1-27 all present ✔** | `guidelines/tripod-ai-2024.md` | Article Table 2 |
+| TRIPOD | 2015 | 22 items | 22 ✔ | `guidelines/tripod-2015.md` | PDF table — **superseded by TRIPOD+AI** |
+| PRISMA for Abstracts | 2020 | 12 items | 12 ✔ | `guidelines/prisma-abstracts-2020.md` | PDF checklist (CC BY 4.0) |
+| PRISMA-P | 2015 | 17 items / 26 blocks | ✔ | `guidelines/prisma-p-2015.md` | DOCX |
+| ARRIVE | 2.0 (2020) | 21 items | 21 ✔ | `guidelines/arrive-2.0.md` | PDF checklist |
+| **CODE-EHR** | **2022** | **8 items** | **8 ✔** | `guidelines/code-ehr-2022.md` | DOCX |
 | AGREE Reporting Checklist | 2016 | 23 items | 23 ✔ | `guidelines/agree-2016.md` | DOCX |
 | CARE | 2013 | 13 items | 13 ✔ | `guidelines/care-2013.md` | PDF checklist |
 | COREQ | 2007 | 32 items | 32 ✔ | `guidelines/coreq-2007.md` | PDF table |
@@ -41,14 +46,14 @@ Status values:
 
 Ordered by how likely they are to be needed.
 
-| Guideline | Covers | Why it matters | Source |
+| Guideline | Covers | Why it matters | Blocker |
 |---|---|---|---|
-| **TRIPOD+AI** (2024) | Prediction models using regression or machine learning | Supersedes TRIPOD 2015 for most new prediction-model work. The 2015 version in this repo is out of date for anything involving ML | https://www.tripod-statement.org/ |
-| **PRISMA-P** (2015) | Systematic review protocols | The protocol counterpart to PRISMA; pairs with SPIRIT for trials | https://www.prisma-statement.org/ |
-| **SRQR** (2014) | Qualitative research, broadly | Broader than COREQ, which is interview/focus-group specific | https://www.equator-network.org/reporting-guidelines/srqr/ |
-| **ARRIVE 2.0** (2020) | Animal pre-clinical studies | Required by an increasing number of journals | https://arriveguidelines.org/ |
-| **RIGHT** (2017) | Clinical practice guidelines | Companion to AGREE; AGREE covers appraisal and reporting, RIGHT is reporting-specific | https://www.equator-network.org/reporting-guidelines/right-statement/ |
-| **PRISMA 2020 for Abstracts** | Systematic review abstracts | PRISMA item 2 explicitly defers to it, so the main checklist is incomplete without it | https://www.prisma-statement.org/ |
+| **RECORD** (2015) | Observational studies using routinely-collected health data | Highest-value addition for NHIF/NCPHA administrative-data work | Have the paper; its side-by-side STROBE\|RECORD table does not extract reliably. Need the official checklist file |
+| **RECORD-PE** (2018) | Pharmacoepidemiology using routine data | Extends RECORD | Have the paper; four-column STROBE\|RECORD\|RECORD-PE table. Need the official checklist |
+| **RIGHT** (2017) | Clinical practice guidelines | Companion to AGREE | Have the paper; extractable, not yet transcribed |
+| **RIGHT-PVG** (2021) | Public versions of guidelines | Extends RIGHT | Have the paper; layout defeats extraction. Need official checklist |
+| **SRQR** (2014) | Qualitative research, broadly | Broader than COREQ's interview/focus-group scope | Have the paper; extractable, not yet transcribed |
+| **TRIPOD+AI for Abstracts** | Abstracts of prediction-model studies | TRIPOD+AI item 2 defers to it | Not downloaded |
 
 ### Extensions not yet included
 
@@ -68,7 +73,7 @@ Guidelines that changed recently, or are expected to:
 | Guideline | Watch because |
 |---|---|
 | CONSORT / SPIRIT | Both updated April 2025 after fifteen years. Anything citing CONSORT 2010 is now out of date. Published simultaneously in BMJ, JAMA, Lancet, Nature Medicine, PLOS Medicine — cite whichever the target journal expects |
-| TRIPOD | TRIPOD+AI (2024) is the current version for ML-based models; the 2015 statement remains valid for conventional regression models |
+| TRIPOD | TRIPOD+AI (2024) **supersedes** the 2015 checklist outright — the paper states it "should no longer be used". It covers regression *and* machine learning, so this is not an ML-only replacement. TRIPOD 2015 is retained here only for appraising papers written against it |
 | STROBE | Unchanged since 2007 and showing its age, particularly around data sharing and pre-registration. A revision has been discussed |
 | CHEERS | Updated 2022; the 2013 version is still widely cited in error |
 

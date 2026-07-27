@@ -3,7 +3,7 @@ name: TRIPOD
 full_name: Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis
 version: "2015"
 supersedes: null
-superseded_by: "TRIPOD+AI (2024) for prediction models using regression or machine learning — NOT YET IN THIS REPOSITORY"
+superseded_by: tripod-ai-2024   # TRIPOD+AI (2024) — use that for new prediction-model studies
 applies_to: Studies developing, validating, or updating a multivariable prediction model for diagnosis or prognosis
 items: 22
 item_blocks: 37  # numbered items expand into sub-item blocks (3a, 3b, ...)
@@ -25,7 +25,8 @@ Circulation version.
 
 **Version warning.** TRIPOD+AI (2024) updates this statement for prediction models
 developed with regression *or* machine learning, and is the current guidance for most new
-prediction-model work. It is not yet in this repository — see INVENTORY.md.
+prediction-model work, and is now in this repository as `tripod-ai-2024.md`. This file is
+retained for reference and for appraising papers published against the 2015 statement.
 
 Each item is marked for whether it applies to model **development (D)**, **validation (V)**,
 or both (**D;V**).

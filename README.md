@@ -47,21 +47,26 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | SPIRIT | 2025 | 53 | full item text |
 | STROBE | 2007 | 22 | full item text |
 | PRISMA | 2020 | 42 | full item text |
+| PRISMA for Abstracts | 2020 | 12 | full item text |
+| PRISMA-P | 2015 | 26 | full item text |
 | STARD | 2015 | 34 | full item text |
-| TRIPOD | 2015 | 22 | full item text |
+| **TRIPOD+AI** | **2024** | **52** | **full item text — supersedes TRIPOD 2015** |
+| TRIPOD | 2015 | 37 | full item text — superseded, kept for appraising older papers |
 | AGREE Reporting Checklist | 2016 | 23 | full item text |
-| CARE | 2013 | 13 | full item text |
+| CARE | 2013 | 30 | full item text |
 | COREQ | 2007 | 32 | full item text |
 | SQUIRE | 2.0 (2015) | 18 | full item text |
 | CHEERS | 2022 | 28 | full item text |
+| ARRIVE | 2.0 (2020) | 21 | full item text |
+| CODE-EHR | 2022 | 8 | full item text |
 | MOOSE | 2000 | — | metadata only |
 | TIDieR | 2014 | — | metadata only |
 | GREET | 2016 | — | metadata only |
 | Simulation extensions | 2016 | — | metadata only |
 | Braun & Clarke (critique) | 2025 | n/a | metadata only |
 
-Missing entirely: **ARRIVE**, **RIGHT**, **SRQR**, **PRISMA-P**, **TRIPOD+AI (2024)**, and
-all extension checklists. See [INVENTORY.md](INVENTORY.md).
+Still missing: **RIGHT**, **RIGHT-PVG**, **SRQR**, **RECORD**, **RECORD-PE**, and most
+extension checklists. See [INVENTORY.md](INVENTORY.md).
 
 ## Provenance and licensing
 
