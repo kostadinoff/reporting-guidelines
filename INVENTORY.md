@@ -26,6 +26,8 @@ Status values:
 | PRISMA-P | 2015 | 17 items / 26 blocks | ✔ | `guidelines/prisma-p-2015.md` | DOCX |
 | ARRIVE | 2.0 (2020) | 21 items | 21 ✔ | `guidelines/arrive-2.0.md` | PDF checklist |
 | **CODE-EHR** | **2022** | **8 items** | **8 ✔** | `guidelines/code-ehr-2022.md` | DOCX |
+| **RECORD** | **2015** | **13 items** | **13 ✔** | `guidelines/record-2015.md` | Article table |
+| **RECORD-PE** | **2018** | **15 items** | **15 ✔** | `guidelines/record-pe-2018.md` | Article Table 1 |
 | AGREE Reporting Checklist | 2016 | 23 items | 23 ✔ | `guidelines/agree-2016.md` | DOCX |
 | CARE | 2013 | 13 items | 13 ✔ | `guidelines/care-2013.md` | PDF checklist |
 | COREQ | 2007 | 32 items | 32 ✔ | `guidelines/coreq-2007.md` | PDF table |
@@ -48,8 +50,6 @@ Ordered by how likely they are to be needed.
 
 | Guideline | Covers | Why it matters | Blocker |
 |---|---|---|---|
-| **RECORD** (2015) | Observational studies using routinely-collected health data | Highest-value addition for NHIF/NCPHA administrative-data work | Have the paper; its side-by-side STROBE\|RECORD table does not extract reliably. Need the official checklist file |
-| **RECORD-PE** (2018) | Pharmacoepidemiology using routine data | Extends RECORD | Have the paper; four-column STROBE\|RECORD\|RECORD-PE table. Need the official checklist |
 | **RIGHT** (2017) | Clinical practice guidelines | Companion to AGREE | Have the paper; extractable, not yet transcribed |
 | **RIGHT-PVG** (2021) | Public versions of guidelines | Extends RIGHT | Have the paper; layout defeats extraction. Need official checklist |
 | **SRQR** (2014) | Qualitative research, broadly | Broader than COREQ's interview/focus-group scope | Have the paper; extractable, not yet transcribed |
@@ -64,7 +64,8 @@ None of the extension checklists are here. The ones most likely to come up:
 - **CONSORT/SPIRIT**: -AI, -Outcomes 2022, -Equity, -ROUTINE, children and adolescents
 - **CHEERS**: extensions for specific evaluation types
 
-RECORD is the highest-value addition for administrative-data work (NHIF, NCPHA).
+RECORD, RECORD-PE and CODE-EHR are now included — these are the administrative-data
+checklists most relevant to NHIF and NCPHA work. Use them layered on STROBE, not instead of it.
 
 ## Version watch-list
 
