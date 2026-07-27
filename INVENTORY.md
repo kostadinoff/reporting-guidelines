@@ -30,6 +30,7 @@ Status values:
 | **RECORD-PE** | **2018** | **15 items** | **15 ✔** | `guidelines/record-pe-2018.md` | Article Table 1 |
 | **RIGHT** | **2017** | **22 items / 35 blocks** | **✔** | `guidelines/right-2017.md` | Article table |
 | **SRQR** | **2014** | **21 items (S1-S21)** | **21 ✔** | `guidelines/srqr-2014.md` | Article Table 1 |
+| **RIGHT-PVG** | **2021** | **17 items / 12 topics** | **17 ✔** | `guidelines/right-pvg-2021.md` | Article Table 1 |
 | AGREE Reporting Checklist | 2016 | 23 items | 23 ✔ | `guidelines/agree-2016.md` | DOCX |
 | CARE | 2013 | 13 items | 13 ✔ | `guidelines/care-2013.md` | PDF checklist |
 | COREQ | 2007 | 32 items | 32 ✔ | `guidelines/coreq-2007.md` | PDF table |
@@ -52,7 +53,6 @@ Ordered by how likely they are to be needed.
 
 | Guideline | Covers | Why it matters | Blocker |
 |---|---|---|---|
-| **RIGHT-PVG** (2021) | Public versions of guidelines | Extends RIGHT | Have the paper; layout defeats extraction. Need official checklist |
 | **TRIPOD+AI for Abstracts** | Abstracts of prediction-model studies | TRIPOD+AI item 2 defers to it | Not downloaded |
 
 ### Extensions not yet included
@@ -88,6 +88,9 @@ Guidelines that changed recently, or are expected to:
   case-control, and cross-sectional designs is here; the three separate per-design files are
   not. The combined file marks design-specific items with an asterisk, which covers most
   practical use.
+- **Worked examples omitted from RIGHT-PVG.** Its published Table 1 pairs each item with
+  several pages of example text from real patient booklets. Those are illustrative, not
+  normative; only item text is reproduced. Consult the paper for examples.
 - **Flow diagrams not transcribed.** CONSORT 2025, STARD 2015, and PRISMA 2020 each have a
   flow diagram. These are images and cannot be represented as item text; use the official
   templates.

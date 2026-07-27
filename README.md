@@ -63,14 +63,14 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | RECORD-PE | 2018 | 15 | full item text — extends STROBE + RECORD |
 | RIGHT | 2017 | 35 | full item text |
 | SRQR | 2014 | 21 | full item text |
+| RIGHT-PVG | 2021 | 17 | full item text — extends RIGHT |
 | MOOSE | 2000 | — | metadata only |
 | TIDieR | 2014 | — | metadata only |
 | GREET | 2016 | — | metadata only |
 | Simulation extensions | 2016 | — | metadata only |
 | Braun & Clarke (critique) | 2025 | n/a | metadata only |
 
-Still missing: **RIGHT-PVG**, **TRIPOD+AI for Abstracts**, and most other extension
-checklists. See [INVENTORY.md](INVENTORY.md).
+Still missing: **TRIPOD+AI for Abstracts** and most other extension checklists. See [INVENTORY.md](INVENTORY.md).
 
 ## Provenance and licensing
 
