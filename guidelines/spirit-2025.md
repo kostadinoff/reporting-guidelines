@@ -1,6 +1,6 @@
 ---
 name: SPIRIT 2025
-full_name: Standard Protocol Items: Recommendations for Interventional Trials
+full_name: "Standard Protocol Items: Recommendations for Interventional Trials"
 version: "2025"
 supersedes: SPIRIT 2013
 applies_to: Protocols for randomised trials

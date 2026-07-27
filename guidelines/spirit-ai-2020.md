@@ -9,11 +9,12 @@ items: 13
 citation_key: cruzrivera2020spiritai
 doi: 10.1038/s41591-020-1037-7
 official_url: https://www.clinical-trials.ai/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: "Unpaywall reports cc-by for the Nature Medicine version of record; Europe PMC PMC7598944 carries the same licence. Verified 2026-07-28."
 source_format: Journal article supplementary checklist
 extracted: verbatim (extension and elaboration items only)
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # SPIRIT-AI

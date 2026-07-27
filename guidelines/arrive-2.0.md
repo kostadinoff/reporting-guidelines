@@ -1,6 +1,6 @@
 ---
 name: ARRIVE 2.0
-full_name: Animal Research: Reporting of In Vivo Experiments
+full_name: "Animal Research: Reporting of In Vivo Experiments"
 version: "2.0 (2020)"
 supersedes: ARRIVE (2010)
 applies_to: Publications describing animal research (in vivo experiments)

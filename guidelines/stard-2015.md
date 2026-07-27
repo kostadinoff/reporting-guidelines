@@ -10,11 +10,12 @@ sections: 7
 citation_key: bossuyt2015stard
 doi: 10.1136/bmj.h5527
 official_url: https://www.equator-network.org/reporting-guidelines/stard/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: "Unpaywall reports cc-by for the BMJ version of record; Europe PMC PMC4623764 carries the same licence. Verified 2026-07-28."
 source_format: DOCX checklist
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 # STARD 2015
 

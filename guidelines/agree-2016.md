@@ -8,11 +8,12 @@ sections: 6
 citation_key: brouwers2016agree
 doi: 10.1136/bmj.i1152
 official_url: https://www.agreetrust.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY-NC 4.0
+licence_basis: "Unpaywall reports cc-by-nc for the BMJ version of record; Europe PMC PMC5118873 carries the same licence. Verified 2026-07-28."
 source_format: DOCX checklist
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 # AGREE Reporting Checklist
 

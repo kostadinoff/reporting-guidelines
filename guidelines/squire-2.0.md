@@ -8,11 +8,12 @@ items: 18
 citation_key: ogrinc2016squire
 doi: 10.1136/bmjqs-2015-004411
 official_url: https://www.squire-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY-NC 4.0
+licence_basis: "Unpaywall reports cc-by-nc for the BMJ Quality & Safety version of record; Europe PMC PMC5256233 carries the same licence. Verified 2026-07-28."
 source_format: PDF checklist (dated 15 September 2015)
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # SQUIRE 2.0

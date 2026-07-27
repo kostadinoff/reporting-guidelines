@@ -9,11 +9,12 @@ item_blocks: 52
 citation_key: collins2024tripodai
 doi: 10.1136/bmj-2023-078378
 official_url: https://www.tripod-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: "Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28."
 source_format: Journal article, Table 2
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # TRIPOD+AI

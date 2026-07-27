@@ -8,11 +8,13 @@ sections: 7
 citation_key: vonelm2007strobe
 doi: 10.1016/S0140-6736(07)61602-X
 official_url: https://www.strobe-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY
+licence_basis: "The Lancet version of record (10.1016/S0140-6736(07)61602-X) is paywalled. STROBE was co-published open access in PLoS Medicine (10.1371/journal.pmed.0040296), which carries an explicit Creative Commons Attribution open-access statement; the checklist text is the same. Licence version not stated. Verified 2026-07-28."
+licence_source_doi: 10.1371/journal.pmed.0040296
 source_format: DOCX checklist
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 # STROBE
 

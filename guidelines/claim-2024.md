@@ -8,11 +8,12 @@ items: 44
 citation_key: tejani2024claim
 doi: 10.1148/ryai.240300
 official_url: https://pubs.rsna.org/journal/ai
-licence: not verified — confirm at official source before redistribution
+licence: no open licence — all rights reserved
+licence_basis: "Copyright statement on the article: '© 2024 by the Radiological Society of North America, Inc.' (PMC11304031). Free to read, but no Creative Commons licence — redistribution requires RSNA permission. Verified 2026-07-28."
 source_format: PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # CLAIM

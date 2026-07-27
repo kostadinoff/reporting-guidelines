@@ -12,17 +12,41 @@ Reproduced under the stated licence, with attribution as required.
 
 | Guideline | Source | Licence | Basis |
 |---|---|---|---|
+| AGREE Reporting Checklist | Brouwers et al. BMJ (Clinical research ed.) 2016 | CC BY-NC 4.0 | Unpaywall reports cc-by-nc for the BMJ version of record; Europe PMC PMC5118873 carries the same licence. Verified 2026-07-28. |
 | ARRIVE 2.0 | Percie du Sert et al. PLoS biology 2020 | CC BY 4.0 | PLOS (all articles CC BY 4.0 by publisher policy) |
+| BQQRG | Braun et al. Qualitative Research in Psychology 2024 | CC BY 4.0 | Unpaywall resolves the Taylor & Francis ambiguity previously flagged here (T&F use both CC BY and CC BY-NC-ND): the version of record is cc-by. Verified 2026-07-28. |
 | CHEERS 2022 | Husereau et al. BMJ (Clinical research ed.) 2022 | CC BY 4.0 | stated on the checklist PDF itself |
+| CHEERS-AI | Elvidge et al. Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research 2024 | CC BY-NC-ND 4.0 | Crossref licence metadata for the version of record (Value in Health, Elsevier). Verified 2026-07-28. |
+| CODE-EHR | Kotecha et al. BMJ (Clinical research ed.) 2022 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | CONSORT 2025 | Hopewell et al. BMJ (Clinical research ed.) 2025 | CC BY 4.0 | Open Access statement on the article: 'This is an Open Access article distributed under the terms of the Creative Commons Attribution License', verified 2026-07-28. CONSORT 2025 and SPIRIT 2025 were published together under the same arrangement across five journals. |
+| CONSORT-AI | Liu et al. Nature medicine 2020 | CC BY 4.0 | Unpaywall reports cc-by for the Nature Medicine version of record; Europe PMC PMC7598943 carries the same licence. Verified 2026-07-28. |
 | GREET | Phillips et al. BMC medical education 2016 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
+| PRISMA 2020 | Page et al. BMJ (Clinical research ed.) 2021 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | PRISMA 2020 for Abstracts | Page et al. BMJ (Clinical research ed.) 2021 | CC BY 4.0 | stated on the checklist PDF itself |
 | PRISMA-P | Moher et al. Systematic reviews 2015 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
 | RECORD | Benchimol et al. PLoS medicine 2015 | CC BY 4.0 | PLOS (all articles CC BY 4.0 by publisher policy) |
+| RECORD-PE | Langan et al. BMJ (Clinical research ed.) 2018 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | RIGHT for PVG | Wang et al. Implementation science : IS 2021 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
 | Simulation-based research extensions | Cheng et al. Advances in simulation (London, England) 2016 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
 | SPIRIT 2025 | Chan et al. BMJ (Clinical research ed.) 2025 | CC BY 4.0 | Open Access statement on the article: 'This is an Open Access article distributed under the terms of the Creative Commons Attribution License', verified 2026-07-28. CONSORT 2025 and SPIRIT 2025 were published together under the same arrangement across five journals. |
+| SPIRIT-AI | Cruz Rivera et al. Nature medicine 2020 | CC BY 4.0 | Unpaywall reports cc-by for the Nature Medicine version of record; Europe PMC PMC7598944 carries the same licence. Verified 2026-07-28. |
+| SQUIRE 2.0 | Ogrinc et al. BMJ quality & safety 2016 | CC BY-NC 4.0 | Unpaywall reports cc-by-nc for the BMJ Quality & Safety version of record; Europe PMC PMC5256233 carries the same licence. Verified 2026-07-28. |
+| STARD 2015 | Bossuyt et al. BMJ (Clinical research ed.) 2015 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record; Europe PMC PMC4623764 carries the same licence. Verified 2026-07-28. |
+| STROBE | von Elm et al. Lancet (London, England) 2007 | CC BY | The Lancet version of record (10.1016/S0140-6736(07)61602-X) is paywalled. STROBE was co-published open access in PLoS Medicine (10.1371/journal.pmed.0040296), which carries an explicit Creative Commons Attribution open-access statement; the checklist text is the same. Licence version not stated. Verified 2026-07-28. |
 | STROBE-MR | Skrivankova et al. BMJ (Clinical research ed.) 2021 | CC BY 3.0 | stated on the checklist itself (EQUATOR Network, CC BY 3.0) |
+| TRIPOD | Collins et al. Circulation 2015 | CC BY-NC-ND | Unpaywall reports cc-by-nc-nd for the Circulation version of record. The licence version (3.0 or 4.0) is not stated in the metadata — confirm at the AHA/Wolters Kluwer page if precision matters. Verified 2026-07-28. |
+| TRIPOD+AI | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
+| TRIPOD+AI for Abstracts | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record (the same paper as tripod-ai-2024). Verified 2026-07-28. |
+
+## Verified — no open licence
+
+The licence position **has** been checked and is settled: these are reproduced under
+no open licence at all. Free to read at the source does not mean free to redistribute —
+reuse beyond quotation needs the rightsholder's permission.
+
+| Guideline | Source | Position |
+|---|---|---|
+| CLAIM | Tejani et al. Radiology. Artificial intelligence 2024 | Copyright statement on the article: '© 2024 by the Radiological Society of North America, Inc.' (PMC11304031). Free to read, but no Creative Commons licence — redistribution requires RSNA permission. Verified 2026-07-28. |
 
 ## Licence not yet verified
 
@@ -33,36 +57,38 @@ metadata and a link.
 
 | Guideline | Source | DOI |
 |---|---|---|
-| AGREE Reporting Checklist | Brouwers et al. BMJ (Clinical research ed.) 2016 | 10.1136/bmj.i1152 |
-| BQQRG | Braun et al. Qualitative Research in Psychology 2024 | 10.1080/14780887.2024.2382244 |
 | Braun & Clarke 15-point checklist | Braun et al.  2013 | null |
 | CARE | Gagnier et al. Journal of clinical epidemiology 2014 | 10.1016/j.jclinepi.2013.08.003 |
-| CHEERS-AI | Elvidge et al. Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research 2024 | 10.1016/j.jval.2024.05.006 |
-| CLAIM | Tejani et al. Radiology. Artificial intelligence 2024 | 10.1148/ryai.240300 |
-| CODE-EHR | Kotecha et al. BMJ (Clinical research ed.) 2022 | 10.1136/bmj-2021-069048 |
-| CONSORT-AI | Liu et al. Nature medicine 2020 | 10.1038/s41591-020-1034-x |
 | COREQ | Tong et al. International journal for quality in health care : journal of the International Society for Quality in Health Care 2007 | 10.1093/intqhc/mzm042 |
 | DECIDE-AI | Vasey et al. Nature medicine 2022 | 10.1038/s41591-022-01772-9 |
 | MOOSE | Stroup et al. JAMA 2000 | 10.1001/jama.283.15.2008 |
-| PRISMA 2020 | Page et al. BMJ (Clinical research ed.) 2021 | 10.1136/bmj.n71 |
 | PRISMA-ScR | Tricco et al. Annals of internal medicine 2018 | 10.7326/M18-0850 |
-| RECORD-PE | Langan et al. BMJ (Clinical research ed.) 2018 | 10.1136/bmj.k3532 |
 | RIGHT | Chen et al. Annals of internal medicine 2017 | 10.7326/M16-1565 |
-| SPIRIT-AI | Cruz Rivera et al. Nature medicine 2020 | 10.1038/s41591-020-1037-7 |
-| SQUIRE 2.0 | Ogrinc et al. BMJ quality \& safety 2016 | 10.1136/bmjqs-2015-004411 |
 | SRQR | O'Brien et al. Academic medicine : journal of the Association of American Medical Colleges 2014 | 10.1097/ACM.0000000000000388 |
-| STARD 2015 | Bossuyt et al. BMJ (Clinical research ed.) 2015 | 10.1136/bmj.h5527 |
-| STROBE | von Elm et al. Lancet (London, England) 2007 | 10.1016/S0140-6736(07)61602-X |
 | TIDieR | Hoffmann et al. BMJ (Clinical research ed.) 2014 | 10.1136/bmj.g1687 |
-| TRIPOD | Collins et al. Circulation 2015 | 10.1161/CIRCULATIONAHA.114.014508 |
-| TRIPOD+AI | Collins et al. BMJ (Clinical research ed.) 2024 | 10.1136/bmj-2023-078378 |
-| TRIPOD+AI for Abstracts | Collins et al. BMJ (Clinical research ed.) 2024 | 10.1136/bmj-2023-078378 |
 
 ## Known restrictions
 
 - **AGREE** — the AGREE Research Trust requires registration for access to AGREE II
   materials. The AGREE Reporting Checklist reproduced here was published open access
-  in the BMJ, but confirm terms before further redistribution.
+  in the BMJ under CC BY-NC 4.0, so commercial reuse is excluded.
 - **Braun & Clarke 15-point checklist** — from a SAGE book, not an open-access
   article. No open licence; reproduced as short factual criteria with full citation.
+- **CLAIM 2024** — © Radiological Society of North America. Free to read at PMC, but
+  no Creative Commons licence; redistribution needs RSNA permission.
+- **STROBE** — the licence comes from the PLoS Medicine co-publication
+  (10.1371/journal.pmed.0040296), not from the Lancet DOI recorded in the guideline
+  file, which is paywalled. The checklist text is the same in both.
+- **TRIPOD** — CC BY-NC-ND, but the metadata does not state whether it is 3.0 or 4.0.
+  Both exclude commercial use and derivatives.
+- **CHEERS-AI** and **SQUIRE 2.0** — CC BY-NC-ND 4.0 and CC BY-NC 4.0 respectively;
+  neither permits commercial redistribution.
+- **DECIDE-AI** — the Nature Medicine version of record is paywalled; only a green
+  accepted manuscript is openly available, and it carries no CC licence.
+- **CARE** — the checklist is free to download from care-statement.org, but neither
+  the site nor the J Clin Epidemiol article states an open licence.
+- **PRISMA-ScR** and **RIGHT** — free to read at Annals of Internal Medicine with no
+  CC licence stated; free access is not a redistribution licence.
+- **TIDieR** — bronze OA at the BMJ: readable without payment, but no licence is
+  declared, so the terms could not be confirmed from an official source.
 
