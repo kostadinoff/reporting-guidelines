@@ -9,6 +9,7 @@ citation_key: skrivankova2021strobemr
 doi: 10.1136/bmj.n2233
 official_url: https://www.strobe-mr.org/
 licence: CC BY 3.0
+licence_basis: stated on the checklist itself (EQUATOR Network, CC BY 3.0)
 source_format: DOCX/PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27

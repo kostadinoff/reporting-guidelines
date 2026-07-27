@@ -8,7 +8,8 @@ items: 13
 citation_key: benchimol2015record
 doi: 10.1371/journal.pmed.1001885
 official_url: https://www.record-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: PLOS (all articles CC BY 4.0 by publisher policy)
 source_format: Journal article, checklist table
 extracted: verbatim
 retrieved: 2026-07-27

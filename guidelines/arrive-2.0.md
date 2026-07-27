@@ -9,7 +9,8 @@ structure: "Essential 10 (items 1-10) = minimum for assessing reliability; Recom
 citation_key: perciedusert2020arrive
 doi: 10.1371/journal.pbio.3000410
 official_url: https://arriveguidelines.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: PLOS (all articles CC BY 4.0 by publisher policy)
 source_format: PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27

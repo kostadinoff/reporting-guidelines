@@ -9,7 +9,8 @@ items: 11
 citation_key: cheng2016simulation
 doi: 10.1186/s41077-016-0025-y
 official_url: https://www.equator-network.org/reporting-guidelines/reporting-guidelines-for-health-care-simulation-research-extensions-to-the-consort-and-strobe-statements/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy)
 source_format: Journal article, Table 1
 extracted: verbatim (extension items only)
 retrieved: 2026-07-27

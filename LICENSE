@@ -1,0 +1,50 @@
+# Licence
+
+This repository contains two kinds of material with different owners. Read both parts
+before reusing anything.
+
+## 1. This repository's own contribution — CC BY 4.0
+
+Copyright (c) 2026 Kostadin Kostadinov
+
+The following are the original contribution of this repository and are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+
+- the structure and organisation of the files, including the per-item block format
+- the YAML frontmatter schema (version, DOI, `applies_to`, `extends`, `supersedes`,
+  `licence`, `licence_basis`, provenance fields)
+- the routing guidance — which guideline applies to which study design
+- the cross-references between guidelines, and the notes explaining how extensions layer
+  onto their parent checklists
+- the version warnings and supersession notes
+- the editorial commentary in each file (the prose above the items)
+- `README.md`, `INVENTORY.md`, and the compilation of `references.bib`
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## 2. The checklist item text — owned by the guideline developers
+
+The reporting-guideline items themselves are **not** the property of this repository and
+are **not** licensed by it. Each remains subject to the terms of its own developers and
+publisher.
+
+Every guideline file records:
+
+- `licence:` — the licence, where established, or an explicit statement that it is not verified
+- `licence_basis:` — how that determination was made
+- `doi:` and `official_url:` — so the authoritative source can always be reached
+
+See `NOTICE` for the per-guideline position.
+
+**Item text is reproduced here for accurate reference in research reporting, with full
+attribution and a citable DOI in every case.** Several guidelines are explicitly
+CC-licensed. Others have not yet been verified and are marked as such — treat those as
+all-rights-reserved until confirmed. If you are a guideline developer and object to your
+checklist appearing here, open an issue and it will be removed or reduced to metadata and
+a link.
+
+## 3. What this repository is not
+
+A working aid, not an authoritative copy. Where a checklist matters — a submission, a peer
+review, a compliance statement — use the official source. Transcription errors are possible
+and are bugs worth reporting.

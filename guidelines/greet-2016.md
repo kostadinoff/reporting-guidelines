@@ -8,7 +8,8 @@ items: 17
 citation_key: phillips2016greet
 doi: 10.1186/s12909-016-0759-1
 official_url: https://www.equator-network.org/reporting-guidelines/greet/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy)
 source_format: PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27

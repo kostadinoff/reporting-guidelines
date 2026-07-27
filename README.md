@@ -90,10 +90,14 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline and **most have not been verified**. CHEERS 2022 is
-explicitly CC BY 4.0. AGREE materials require registration with the AGREE Research Trust.
-Frontmatter records the licence status per file. Verify before reusing any item text
-commercially or redistributing it further.
+Licences differ per guideline. Nine are established (see `NOTICE`); the rest are marked
+`licence: not verified` in their frontmatter and should be treated as all-rights-reserved
+until confirmed at the official source. Each file also records `licence_basis` — how the
+determination was made — so the position is auditable rather than assumed.
+
+`LICENSE` separates this repository's own contribution (structure, routing, cross-references,
+version warnings, commentary — CC BY 4.0) from the checklist item text, which belongs to the
+guideline developers and is reproduced with attribution and a citable DOI in every case.
 
 This repository is a working aid, not an authoritative copy. Where a checklist matters —
 a submission, a peer review, a compliance statement — go to the official source. If you

@@ -9,7 +9,8 @@ parent: prisma-2020
 citation_key: moher2015prismap
 doi: 10.1186/2046-4053-4-1
 official_url: https://www.prisma-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy)
 source_format: DOCX checklist
 extracted: verbatim
 retrieved: 2026-07-27

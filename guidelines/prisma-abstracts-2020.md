@@ -11,6 +11,7 @@ related_keys: [beller2013prismaabstracts]
 doi: 10.1136/bmj.n71
 official_url: https://www.prisma-statement.org/
 licence: CC BY 4.0
+licence_basis: stated on the checklist PDF itself
 source_format: PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27

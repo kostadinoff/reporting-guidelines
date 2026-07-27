@@ -8,7 +8,8 @@ structure: "Three columns per element — practices to consider / practices to a
 citation_key: braun2024qualitative
 doi: 10.1080/14780887.2024.2382244
 official_url: https://doi.org/10.1080/14780887.2024.2382244
-licence: not verified — confirm at official source before redistribution
+licence: open access — CC variant NOT confirmed
+licence_basis: "'(c) 2024 The Author(s). Published with license by Taylor & Francis' on the article; T&F use both CC BY and CC BY-NC-ND, so the specific licence must be checked"
 source_format: Journal article, Table 1
 extracted: verbatim
 retrieved: 2026-07-27

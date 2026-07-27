@@ -1,0 +1,68 @@
+# NOTICE
+
+Attribution and licence position for every reporting guideline reproduced in this
+repository. Generated from the guideline files themselves — see `LICENSE` for the
+split between this repository's own contribution and the guideline developers' work.
+
+Last generated: 2026-07-27. 35 guidelines.
+
+## Established licences
+
+Reproduced under the stated licence, with attribution as required.
+
+| Guideline | Source | Licence | Basis |
+|---|---|---|---|
+| ARRIVE 2.0 | Percie du Sert et al. PLoS biology 2020 | CC BY 4.0 | PLOS (all articles CC BY 4.0 by publisher policy) |
+| CHEERS 2022 | Husereau et al. BMJ (Clinical research ed.) 2022 | CC BY 4.0 | stated on the checklist PDF itself |
+| GREET | Phillips et al. BMC medical education 2016 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
+| PRISMA 2020 for Abstracts | Page et al. BMJ (Clinical research ed.) 2021 | CC BY 4.0 | stated on the checklist PDF itself |
+| PRISMA-P | Moher et al. Systematic reviews 2015 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
+| RECORD | Benchimol et al. PLoS medicine 2015 | CC BY 4.0 | PLOS (all articles CC BY 4.0 by publisher policy) |
+| RIGHT for PVG | Wang et al. Implementation science : IS 2021 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
+| Simulation-based research extensions | Cheng et al. Advances in simulation (London, England) 2016 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
+| STROBE-MR | Skrivankova et al. BMJ (Clinical research ed.) 2021 | CC BY 3.0 | stated on the checklist itself (EQUATOR Network, CC BY 3.0) |
+
+## Licence not yet verified
+
+Reproduced with full attribution and DOI, but the terms have **not** been confirmed.
+Treat as all-rights-reserved until checked at the official source. Guideline
+developers who object should open an issue; the entry will be removed or reduced to
+metadata and a link.
+
+| Guideline | Source | DOI |
+|---|---|---|
+| AGREE Reporting Checklist | Brouwers et al. BMJ (Clinical research ed.) 2016 | 10.1136/bmj.i1152 |
+| BQQRG | Braun et al. Qualitative Research in Psychology 2024 | 10.1080/14780887.2024.2382244 |
+| Braun & Clarke 15-point checklist | Braun et al.  2013 | null |
+| CARE | Gagnier et al. Journal of clinical epidemiology 2014 | 10.1016/j.jclinepi.2013.08.003 |
+| CHEERS-AI | Elvidge et al. Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research 2024 | 10.1016/j.jval.2024.05.006 |
+| CLAIM | Tejani et al. Radiology. Artificial intelligence 2024 | 10.1148/ryai.240300 |
+| CODE-EHR | Kotecha et al. BMJ (Clinical research ed.) 2022 | 10.1136/bmj-2021-069048 |
+| CONSORT 2025 | Hopewell et al. BMJ (Clinical research ed.) 2025 | 10.1136/bmj-2024-081123 |
+| CONSORT-AI | Liu et al. Nature medicine 2020 | 10.1038/s41591-020-1034-x |
+| COREQ | Tong et al. International journal for quality in health care : journal of the International Society for Quality in Health Care 2007 | 10.1093/intqhc/mzm042 |
+| DECIDE-AI | Vasey et al. Nature medicine 2022 | 10.1038/s41591-022-01772-9 |
+| MOOSE | Stroup et al. JAMA 2000 | 10.1001/jama.283.15.2008 |
+| PRISMA 2020 | Page et al. BMJ (Clinical research ed.) 2021 | 10.1136/bmj.n71 |
+| PRISMA-ScR | Tricco et al. Annals of internal medicine 2018 | 10.7326/M18-0850 |
+| RECORD-PE | Langan et al. BMJ (Clinical research ed.) 2018 | 10.1136/bmj.k3532 |
+| RIGHT | Chen et al. Annals of internal medicine 2017 | 10.7326/M16-1565 |
+| SPIRIT 2025 | Chan et al. BMJ (Clinical research ed.) 2025 | 10.1136/bmj-2024-081477 |
+| SPIRIT-AI | Cruz Rivera et al. Nature medicine 2020 | 10.1038/s41591-020-1037-7 |
+| SQUIRE 2.0 | Ogrinc et al. BMJ quality \& safety 2016 | 10.1136/bmjqs-2015-004411 |
+| SRQR | O'Brien et al. Academic medicine : journal of the Association of American Medical Colleges 2014 | 10.1097/ACM.0000000000000388 |
+| STARD 2015 | Bossuyt et al. BMJ (Clinical research ed.) 2015 | 10.1136/bmj.h5527 |
+| STROBE | von Elm et al. Lancet (London, England) 2007 | 10.1016/S0140-6736(07)61602-X |
+| TIDieR | Hoffmann et al. BMJ (Clinical research ed.) 2014 | 10.1136/bmj.g1687 |
+| TRIPOD | Collins et al. Circulation 2015 | 10.1161/CIRCULATIONAHA.114.014508 |
+| TRIPOD+AI | Collins et al. BMJ (Clinical research ed.) 2024 | 10.1136/bmj-2023-078378 |
+| TRIPOD+AI for Abstracts | Collins et al. BMJ (Clinical research ed.) 2024 | 10.1136/bmj-2023-078378 |
+
+## Known restrictions
+
+- **AGREE** — the AGREE Research Trust requires registration for access to AGREE II
+  materials. The AGREE Reporting Checklist reproduced here was published open access
+  in the BMJ, but confirm terms before further redistribution.
+- **Braun & Clarke 15-point checklist** — from a SAGE book, not an open-access
+  article. No open licence; reproduced as short factual criteria with full citation.
+

@@ -9,6 +9,7 @@ citation_key: husereau2022cheers
 doi: 10.1136/bmj-2021-067975
 official_url: https://www.equator-network.org/reporting-guidelines/cheers/
 licence: CC BY 4.0
+licence_basis: stated on the checklist PDF itself
 source_format: PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27

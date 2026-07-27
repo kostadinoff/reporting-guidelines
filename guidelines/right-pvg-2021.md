@@ -9,7 +9,8 @@ topics: 12
 citation_key: wang2021rightpvg
 doi: 10.1186/s13012-020-01066-z
 official_url: https://www.right-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy)
 source_format: Journal article, Table 1
 extracted: verbatim (item text only — worked examples omitted, see note)
 retrieved: 2026-07-27
