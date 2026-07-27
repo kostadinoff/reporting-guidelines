@@ -13,7 +13,7 @@ Status values:
 
 ## Present, complete
 
-All item text verbatim, counts checked against the published guideline. 29 files.
+All item text verbatim, counts checked against the published guideline. 33 files.
 
 **Core designs** — CONSORT 2025, SPIRIT 2025, STROBE, PRISMA 2020, PRISMA-P, PRISMA for
 Abstracts, STARD 2015, TRIPOD+AI 2024, TRIPOD 2015 (superseded), AGREE, CARE, COREQ, SRQR,
@@ -22,8 +22,15 @@ SQUIRE 2.0, CHEERS 2022, ARRIVE 2.0, RIGHT, RIGHT-PVG, MOOSE.
 **Routine / administrative data** — RECORD, RECORD-PE, CODE-EHR. Layer these on STROBE;
 the closest fit for NHIF and NCPHA work.
 
-**Extensions** — TIDieR (interventions), PRISMA-ScR (scoping reviews), STROBE-MR (Mendelian
-randomization), CONSORT-AI, SPIRIT-AI, CHEERS-AI, TRIPOD+AI for Abstracts.
+**Extensions** — TIDieR (interventions), GREET (EBP education, built on TIDieR),
+PRISMA-ScR (scoping reviews), STROBE-MR (Mendelian randomization), TRIPOD+AI for Abstracts.
+
+**AI-specific** — TRIPOD+AI (prediction models), CONSORT-AI and SPIRIT-AI (trials and
+protocols), CHEERS-AI (economic evaluation), CLAIM (medical imaging), DECIDE-AI (early
+live clinical evaluation of decision-support systems).
+
+**Qualitative** — COREQ (interviews/focus groups), SRQR (any design), Braun & Clarke
+15-point checklist (quality of a thematic analysis, not reporting structure).
 
 See the table in [README.md](README.md) for versions and item counts.
 
@@ -31,7 +38,6 @@ See the table in [README.md](README.md) for versions and item counts.
 
 | Guideline | Version | File | Note |
 |---|---|---|---|
-| GREET | 2016 | `guidelines/greet-2016.md` | Evidence-based-practice education; niche |
 | Simulation extensions | 2016 | `guidelines/simulation-2016.md` | Extension to CONSORT and STROBE |
 | Braun & Clarke | 2025 | `guidelines/qualitative-values-2025.md` | Not a checklist — a critique of checklist reporting in qualitative research |
 

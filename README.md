@@ -45,13 +45,17 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 |---|---|---|---|
 | AGREE Reporting Checklist | 2016 | 23 | full item text |
 | ARRIVE 2.0 | 2.0 (2020) | 21 | full item text — supersedes ARRIVE (2010) |
+| Braun & Clarke 15-point checklist | 2013 | 15 | full item text |
 | CARE | 2013 | 13 | full item text |
 | CHEERS 2022 | 2022 | 28 | full item text — supersedes CHEERS 2013 |
 | CHEERS-AI | 2024 | 10 | full item text — extends cheers-2022 |
+| CLAIM | 2024 update | 44 | full item text — supersedes CLAIM (2020) |
 | CODE-EHR | 2022 | 8 | full item text |
 | CONSORT 2025 | 2025 | 30 | full item text — supersedes CONSORT 2010 |
 | CONSORT-AI | 2020 | 14 | full item text — extends consort-2025 |
 | COREQ | 2007 | 32 | full item text |
+| DECIDE-AI | 2022 | 27 | full item text |
+| GREET | 2015 checklist (published 2016) | 17 | full item text — extends tidier-2014 |
 | MOOSE | 2000 | 34 | full item text |
 | PRISMA 2020 | 2020 | 27 | full item text — supersedes PRISMA 2009 |
 | PRISMA 2020 for Abstracts | 2020 | 12 | full item text — supersedes PRISMA for Abstracts (2013) |
@@ -73,7 +77,6 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | TRIPOD+AI | 2024 | 27 | full item text — supersedes TRIPOD 2015 |
 | TRIPOD+AI for Abstracts | 2024 | 13 | full item text — extends tripod-ai-2024 |
 | Braun & Clarke values-based approach | 2025 | — | metadata only |
-| GREET | 2016 | — | metadata only |
 | Simulation-based research extensions | 2016 | — | metadata only |
 
 Every guideline in the original scope is now present with full item text. Remaining gaps
