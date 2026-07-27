@@ -9,6 +9,7 @@ parent: prisma-2020
 citation_key: page2021prisma
 related_keys: [beller2013prismaabstracts]
 doi: 10.1136/bmj.n71
+doi_note: "Shares a DOI with prisma-2020.md by design, not by copy error: the 27-item checklist and this 12-item abstracts checklist were published together in Page et al., BMJ 2021."
 official_url: https://www.prisma-statement.org/
 licence: CC BY 4.0
 licence_basis: stated on the checklist PDF itself

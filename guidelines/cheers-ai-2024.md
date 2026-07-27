@@ -9,11 +9,12 @@ elaborations: 8
 citation_key: elvidge2024cheersai
 doi: 10.1016/j.jval.2024.05.006
 official_url: https://www.equator-network.org/reporting-guidelines/cheers/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY-NC-ND 4.0
+licence_basis: "Crossref licence metadata for the version of record (Value in Health, Elsevier). Verified 2026-07-28."
 source_format: Journal article, Tables 1-3
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # CHEERS-AI

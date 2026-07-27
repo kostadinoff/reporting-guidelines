@@ -90,10 +90,16 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline. Eleven are established (see `NOTICE`); the rest are marked
-`licence: not verified` in their frontmatter and should be treated as all-rights-reserved
-until confirmed at the official source. Each file also records `licence_basis` — how the
-determination was made — so the position is auditable rather than assumed.
+Licences differ per guideline. As of the 2026-07-28 verification, 25 are established
+Creative Commons licences and one (CLAIM) is confirmed to carry no open licence at all;
+the remaining nine are still marked `licence: not verified` in their frontmatter and
+should be treated as all-rights-reserved until confirmed at the official source. See
+`NOTICE`, which separates the three positions. Each file also records `licence_basis` —
+how the determination was made — so the position is auditable rather than assumed.
+
+Note that "established" does not mean "unrestricted": several are CC BY-NC or
+CC BY-NC-ND, which exclude commercial reuse and, for ND, derivatives. `NOTICE` lists
+these under known restrictions.
 
 Regenerate `NOTICE` after any licence change with `python3 tools/mknotice.py`.
 

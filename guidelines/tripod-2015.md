@@ -10,11 +10,12 @@ item_blocks: 37  # numbered items expand into sub-item blocks (3a, 3b, ...)
 citation_key: collins2015tripod
 doi: 10.1161/CIRCULATIONAHA.114.014508
 official_url: https://www.tripod-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY-NC-ND
+licence_basis: "Unpaywall reports cc-by-nc-nd for the Circulation version of record. The licence version (3.0 or 4.0) is not stated in the metadata — confirm at the AHA/Wolters Kluwer page if precision matters. Verified 2026-07-28."
 source_format: PDF (journal article, Table)
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # TRIPOD

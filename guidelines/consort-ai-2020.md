@@ -9,11 +9,12 @@ items: 14
 citation_key: liu2020consortai
 doi: 10.1038/s41591-020-1034-x
 official_url: https://www.clinical-trials.ai/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: "Unpaywall reports cc-by for the Nature Medicine version of record; Europe PMC PMC7598943 carries the same licence. Verified 2026-07-28."
 source_format: Journal article, Table 1
 extracted: verbatim (extension and elaboration items only)
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # CONSORT-AI

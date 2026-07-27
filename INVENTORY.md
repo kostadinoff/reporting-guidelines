@@ -78,10 +78,13 @@ Guidelines that changed recently, or are expected to:
 
 ## Known issues
 
-- **Licences unverified.** Only CHEERS 2022 has been confirmed (CC BY 4.0). Every other
-  file carries `licence: not verified`. This matters because the repository is public —
-  confirm terms before relying on redistribution, especially for AGREE, which requires
-  registration with the AGREE Research Trust.
+- **Nine licences still unverified.** After the 2026-07-28 verification, 25 guidelines
+  carry an established Creative Commons licence and CLAIM is confirmed to have none.
+  Nine remain unconfirmed — CARE, COREQ, MOOSE, SRQR, PRISMA-ScR, RIGHT, DECIDE-AI,
+  TIDieR, and the Braun & Clarke checklist — and still carry `licence: not verified`.
+  This matters because the repository is public: confirm terms before relying on
+  redistribution. Several established licences are also non-commercial or no-derivatives;
+  see the known-restrictions section of `NOTICE`.
 - **STROBE design-specific variants not included.** The combined checklist covering cohort,
   case-control, and cross-sectional designs is here; the three separate per-design files are
   not. The combined file marks design-specific items with an asterisk, which covers most
