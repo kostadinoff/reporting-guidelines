@@ -10,11 +10,12 @@ sections: 10
 citation_key: chan2025spirit
 doi: 10.1136/bmj-2024-081477
 official_url: https://www.consort-spirit.org/
-licence: not verified — confirm at official source before redistribution
+licence: CC BY 4.0
+licence_basis: "Open Access statement on the article: 'This is an Open Access article distributed under the terms of the Creative Commons Attribution License', verified 2026-07-28. CONSORT 2025 and SPIRIT 2025 were published together under the same arrangement across five journals."
 source_format: DOCX checklist
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 # SPIRIT 2025
 

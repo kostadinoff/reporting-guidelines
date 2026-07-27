@@ -90,10 +90,12 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline. Nine are established (see `NOTICE`); the rest are marked
+Licences differ per guideline. Eleven are established (see `NOTICE`); the rest are marked
 `licence: not verified` in their frontmatter and should be treated as all-rights-reserved
 until confirmed at the official source. Each file also records `licence_basis` — how the
 determination was made — so the position is auditable rather than assumed.
+
+Regenerate `NOTICE` after any licence change with `python3 tools/mknotice.py`.
 
 `LICENSE` separates this repository's own contribution (structure, routing, cross-references,
 version warnings, commentary — CC BY 4.0) from the checklist item text, which belongs to the
