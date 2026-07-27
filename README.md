@@ -61,13 +61,16 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | CODE-EHR | 2022 | 8 | full item text |
 | RECORD | 2015 | 13 | full item text — extends STROBE |
 | RECORD-PE | 2018 | 15 | full item text — extends STROBE + RECORD |
+| RIGHT | 2017 | 35 | full item text |
+| SRQR | 2014 | 21 | full item text |
 | MOOSE | 2000 | — | metadata only |
 | TIDieR | 2014 | — | metadata only |
 | GREET | 2016 | — | metadata only |
 | Simulation extensions | 2016 | — | metadata only |
 | Braun & Clarke (critique) | 2025 | n/a | metadata only |
 
-Still missing: **RIGHT**, **RIGHT-PVG**, **SRQR**, and most other extension checklists. See [INVENTORY.md](INVENTORY.md).
+Still missing: **RIGHT-PVG**, **TRIPOD+AI for Abstracts**, and most other extension
+checklists. See [INVENTORY.md](INVENTORY.md).
 
 ## Provenance and licensing
 

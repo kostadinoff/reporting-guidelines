@@ -28,6 +28,8 @@ Status values:
 | **CODE-EHR** | **2022** | **8 items** | **8 ✔** | `guidelines/code-ehr-2022.md` | DOCX |
 | **RECORD** | **2015** | **13 items** | **13 ✔** | `guidelines/record-2015.md` | Article table |
 | **RECORD-PE** | **2018** | **15 items** | **15 ✔** | `guidelines/record-pe-2018.md` | Article Table 1 |
+| **RIGHT** | **2017** | **22 items / 35 blocks** | **✔** | `guidelines/right-2017.md` | Article table |
+| **SRQR** | **2014** | **21 items (S1-S21)** | **21 ✔** | `guidelines/srqr-2014.md` | Article Table 1 |
 | AGREE Reporting Checklist | 2016 | 23 items | 23 ✔ | `guidelines/agree-2016.md` | DOCX |
 | CARE | 2013 | 13 items | 13 ✔ | `guidelines/care-2013.md` | PDF checklist |
 | COREQ | 2007 | 32 items | 32 ✔ | `guidelines/coreq-2007.md` | PDF table |
@@ -50,9 +52,7 @@ Ordered by how likely they are to be needed.
 
 | Guideline | Covers | Why it matters | Blocker |
 |---|---|---|---|
-| **RIGHT** (2017) | Clinical practice guidelines | Companion to AGREE | Have the paper; extractable, not yet transcribed |
 | **RIGHT-PVG** (2021) | Public versions of guidelines | Extends RIGHT | Have the paper; layout defeats extraction. Need official checklist |
-| **SRQR** (2014) | Qualitative research, broadly | Broader than COREQ's interview/focus-group scope | Have the paper; extractable, not yet transcribed |
 | **TRIPOD+AI for Abstracts** | Abstracts of prediction-model studies | TRIPOD+AI item 2 defers to it | Not downloaded |
 
 ### Extensions not yet included
