@@ -117,7 +117,12 @@ Note that "established" does not mean "unrestricted": several are CC BY-NC or
 CC BY-NC-ND, which exclude commercial reuse and, for ND, derivatives. `NOTICE` lists
 these under known restrictions.
 
-Regenerate `NOTICE` after any licence change with `python3 tools/mknotice.py`.
+After changing any guideline file, regenerate the derived documents:
+
+```bash
+python3 tools/mknotice.py     # NOTICE — attribution and licence position
+python3 tools/mkinventory.py  # INVENTORY status section
+```
 
 `LICENSE` separates this repository's own contribution (structure, routing, cross-references,
 version warnings, commentary — CC BY 4.0) from the checklist item text, which belongs to the
