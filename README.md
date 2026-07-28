@@ -59,6 +59,7 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | CODE-EHR | 2022 | 8 | full item text |
 | CONSORT 2025 | 2025 | 30 | full item text — supersedes CONSORT 2010 |
 | CONSORT-AI | 2020 | 14 | full item text — extends consort-2025 |
+| CONSORT-Outcomes 2022 | 2022 | 17 | full item text — extends consort-2025 |
 | CONSORT-ROUTINE | 2021 | 13 | full item text — extends consort-2025 |
 | COREQ | 2007 | 32 | full item text |
 | DECIDE-AI | 2022 | 27 | full item text |
@@ -76,7 +77,7 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | RECORD-PE | 2018 | 15 | full item text — extends strobe-2007, record-2015 |
 | RIGHT | 2017 | 22 | full item text |
 | RIGHT for PVG | 2021 | 17 | full item text — extends right-2017 |
-| Simulation-based research extensions | 2016 | 11 | full item text — extends consort-2025, strobe-2007 |
+| Simulation-based research extensions | 2016 | 21 | full item text — extends consort-2025, strobe-2007 |
 | SPIRIT 2025 | 2025 | 34 | full item text — supersedes SPIRIT 2013 |
 | SPIRIT-AI | 2020 | 13 | full item text — extends spirit-2025 |
 | SQUIRE 2.0 | 2.0 (2015) | 18 | full item text — supersedes SQUIRE 1.0 |
@@ -102,7 +103,7 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline and every position is recorded. 31 are reproduced under an
+Licences differ per guideline and every position is recorded. 32 are reproduced under an
 established licence — chiefly CC BY 4.0, since the PRISMA, CONSORT and TRIPOD groups each
 distribute their checklists and extensions under it. 8 carry no open licence at source and
 rest on attribution plus the EQUATOR Network's terms, which permit copying provided notices

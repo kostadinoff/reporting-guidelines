@@ -51,17 +51,22 @@ Nothing from the original scope is missing. Remaining candidates are further ext
 |---|---|
 | CONSORT-Outcomes 2022, CONSORT-Equity | CONSORT extensions |
 
-### Extensions not yet included
+### Extension checklists
 
-None of the extension checklists are here. The ones most likely to come up:
+Present: RECORD, RECORD-PE, CODE-EHR and STROBE-MR (STROBE); PRISMA-P, PRISMA for Abstracts,
+PRISMA-ScR, PRISMA-DTA, PRISMA-S, PRISMA-E and PRISMA-LSR (PRISMA); CONSORT-AI, SPIRIT-AI,
+CONSORT-ROUTINE, CONSORT-Outcomes 2022 and the simulation extensions (CONSORT/SPIRIT);
+TRIPOD+AI, TRIPOD+AI for Abstracts and TRIPOD-Cluster (TRIPOD); CHEERS-AI (CHEERS);
+RIGHT-PVG (RIGHT); TIDieR and GREET (intervention description).
 
-- **STROBE**: RECORD (routinely collected health data), RECORD-PE (pharmacoepidemiology), STROBE-MR (Mendelian randomisation)
-- **PRISMA**: PRISMA-ScR (scoping reviews), PRISMA-DTA (diagnostic test accuracy), PRISMA-S (search strategies), PRISMA-LSR (living reviews), PRISMA-Equity
-- **CONSORT/SPIRIT**: -AI, -Outcomes 2022, -Equity, -ROUTINE, children and adolescents
-- **CHEERS**: extensions for specific evaluation types
+RECORD, RECORD-PE and CODE-EHR are the administrative-data checklists most relevant to NHIF
+and NCPHA work. Layer them on STROBE, not instead of it. CONSORT-ROUTINE is the trials
+counterpart for studies run inside routine data.
 
-RECORD, RECORD-PE and CODE-EHR are now included — these are the administrative-data
-checklists most relevant to NHIF and NCPHA work. Use them layered on STROBE, not instead of it.
+Still absent: CONSORT-Equity, CONSORT for children and adolescents, SPIRIT-Outcomes 2022
+(the protocol counterpart of CONSORT-Outcomes, JAMA 2022, doi:10.1001/jama.2022.21243),
+SPIRIT-Surrogate, CARE extensions, and PRISMA-DTA for Abstracts.
+
 
 ## Version watch-list
 
@@ -76,7 +81,7 @@ Guidelines that changed recently, or are expected to:
 
 ## Known issues
 
-- **Licence position, all 42 recorded — none unexamined.** 31 reproduced under an
+- **Licence position, all 43 recorded — none unexamined.** 32 reproduced under an
   established licence; the PRISMA, CONSORT and TRIPOD groups each distribute their
   checklists *and extensions* under CC BY, which settled ten files at once. 8 carry no open
   licence at source and rest on attribution plus the EQUATOR Network's terms. 3 are
