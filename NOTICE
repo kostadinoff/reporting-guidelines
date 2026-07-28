@@ -4,9 +4,22 @@ Attribution and licence position for every reporting guideline reproduced in thi
 repository. Generated from the guideline files themselves — see `LICENSE` for the
 split between this repository's own contribution and the guideline developers' work.
 
-Last generated: 2026-07-27. 35 guidelines.
+Last generated: 2026-07-28. 35 guidelines.
 
-## Established licences
+## Item text NOT reproduced here
+
+For these the licence forbids reproducing the checklist in this format — chiefly the
+**ND (NoDerivatives)** term, which the per-item block structure would breach, or no open
+licence at all. Only factual metadata is kept, so routing and cross-references still work.
+Get the items from the official source.
+
+| Guideline | Source | Licence | Why |
+|---|---|---|---|
+| CHEERS-AI | Elvidge et al. Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research 2024 | CC BY-NC-ND 4.0 | Crossref licence metadata for the version of record (Value in Health, Elsevier). Verified 2026-07-28. |
+| CLAIM | Tejani et al. Radiology. Artificial intelligence 2024 | no open licence — all rights reserved | Copyright statement on the article: '© 2024 by the Radiological Society of North America, Inc.' (PMC11304031). Free to read, but no Creative Commons licence — redistribution requires RSNA permission. Verified 2026-07-28. |
+| TRIPOD | Collins et al. Circulation 2015 | CC BY-NC-ND | Unpaywall reports cc-by-nc-nd for the Circulation version of record. The licence version (3.0 or 4.0) is not stated in the metadata — confirm at the AHA/Wolters Kluwer page if precision matters. Verified 2026-07-28. |
+
+## Established licences — item text reproduced
 
 Reproduced under the stated licence, with attribution as required.
 
@@ -16,7 +29,6 @@ Reproduced under the stated licence, with attribution as required.
 | ARRIVE 2.0 | Percie du Sert et al. PLoS biology 2020 | CC BY 4.0 | PLOS (all articles CC BY 4.0 by publisher policy) |
 | BQQRG | Braun et al. Qualitative Research in Psychology 2024 | CC BY 4.0 | Unpaywall resolves the Taylor & Francis ambiguity previously flagged here (T&F use both CC BY and CC BY-NC-ND): the version of record is cc-by. Verified 2026-07-28. |
 | CHEERS 2022 | Husereau et al. BMJ (Clinical research ed.) 2022 | CC BY 4.0 | stated on the checklist PDF itself |
-| CHEERS-AI | Elvidge et al. Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research 2024 | CC BY-NC-ND 4.0 | Crossref licence metadata for the version of record (Value in Health, Elsevier). Verified 2026-07-28. |
 | CODE-EHR | Kotecha et al. BMJ (Clinical research ed.) 2022 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | CONSORT 2025 | Hopewell et al. BMJ (Clinical research ed.) 2025 | CC BY 4.0 | Open Access statement on the article: 'This is an Open Access article distributed under the terms of the Creative Commons Attribution License', verified 2026-07-28. CONSORT 2025 and SPIRIT 2025 were published together under the same arrangement across five journals. |
 | CONSORT-AI | Liu et al. Nature medicine 2020 | CC BY 4.0 | Unpaywall reports cc-by for the Nature Medicine version of record; Europe PMC PMC7598943 carries the same licence. Verified 2026-07-28. |
@@ -34,7 +46,6 @@ Reproduced under the stated licence, with attribution as required.
 | STARD 2015 | Bossuyt et al. BMJ (Clinical research ed.) 2015 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record; Europe PMC PMC4623764 carries the same licence. Verified 2026-07-28. |
 | STROBE | von Elm et al. Lancet (London, England) 2007 | CC BY | The Lancet version of record (10.1016/S0140-6736(07)61602-X) is paywalled. STROBE was co-published open access in PLoS Medicine (10.1371/journal.pmed.0040296), which carries an explicit Creative Commons Attribution open-access statement; the checklist text is the same. Licence version not stated. Verified 2026-07-28. |
 | STROBE-MR | Skrivankova et al. BMJ (Clinical research ed.) 2021 | CC BY 3.0 | stated on the checklist itself (EQUATOR Network, CC BY 3.0) |
-| TRIPOD | Collins et al. Circulation 2015 | CC BY-NC-ND | Unpaywall reports cc-by-nc-nd for the Circulation version of record. The licence version (3.0 or 4.0) is not stated in the metadata — confirm at the AHA/Wolters Kluwer page if precision matters. Verified 2026-07-28. |
 | TRIPOD+AI | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | TRIPOD+AI for Abstracts | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record (the same paper as tripod-ai-2024). Verified 2026-07-28. |
 
@@ -46,7 +57,6 @@ reuse beyond quotation needs the rightsholder's permission.
 
 | Guideline | Source | Position |
 |---|---|---|
-| CLAIM | Tejani et al. Radiology. Artificial intelligence 2024 | Copyright statement on the article: '© 2024 by the Radiological Society of North America, Inc.' (PMC11304031). Free to read, but no Creative Commons licence — redistribution requires RSNA permission. Verified 2026-07-28. |
 
 ## Licence not yet verified
 

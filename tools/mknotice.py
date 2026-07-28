@@ -30,6 +30,7 @@ for f in sorted((D / "guidelines").glob("*.md")):
         name=g("name"), file=f.name, doi=g("doi"),
         lic=g("licence"), basis=g("licence_basis"),
         authors=bib_field(key, "author"), journal=bib_field(key, "journal"),
+        stub=bool(g("item_text")),
         year=bib_field(key, "year"),
     ))
 
@@ -40,16 +41,29 @@ def first_author(a):
     return (first.split(",")[0] if "," in first else first.split()[-1]) + " et al."
 
 CLOSED = "no open licence"  # licence checked and settled: no open terms at all
-verified = [r for r in rows if r["lic"].startswith("CC")]
-closed = [r for r in rows if r["lic"].startswith(CLOSED)]
-unverified = [r for r in rows if not r["lic"].startswith(("CC", CLOSED))]
+# Stubs: the licence forbids reproducing the item text here, so only metadata is carried.
+stubbed = [r for r in rows if r["stub"]]
+rest = [r for r in rows if not r["stub"]]
+verified = [r for r in rest if r["lic"].startswith("CC")]
+closed = [r for r in rest if r["lic"].startswith(CLOSED)]
+unverified = [r for r in rest if not r["lic"].startswith(("CC", CLOSED))]
 
 out = ["# NOTICE", "",
        "Attribution and licence position for every reporting guideline reproduced in this",
        "repository. Generated from the guideline files themselves — see `LICENSE` for the",
        "split between this repository's own contribution and the guideline developers' work.",
        "", f"Last generated: {datetime.date.today().isoformat()}. {len(rows)} guidelines.", "",
-       "## Established licences", "",
+       "## Item text NOT reproduced here", "",
+       "For these the licence forbids reproducing the checklist in this format — chiefly the",
+       "**ND (NoDerivatives)** term, which the per-item block structure would breach, or no open",
+       "licence at all. Only factual metadata is kept, so routing and cross-references still work.",
+       "Get the items from the official source.", "",
+       "| Guideline | Source | Licence | Why |", "|---|---|---|---|"] + [
+    f"| {r['name']} | {first_author(r['authors'])} {r['journal']} {r['year']}".strip()
+    + f" | {r['lic']} | {r['basis'] or chr(8212)} |"
+    for r in sorted(stubbed, key=lambda x: x["name"].lower())
+] + ["",
+       "## Established licences — item text reproduced", "",
        "Reproduced under the stated licence, with attribution as required.", "",
        "| Guideline | Source | Licence | Basis |", "|---|---|---|---|"]
 for r in sorted(verified, key=lambda x: x["name"].lower()):
