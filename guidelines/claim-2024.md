@@ -9,7 +9,7 @@ citation_key: tejani2024claim
 doi: 10.1148/ryai.240300
 official_url: https://pubs.rsna.org/journal/ai
 licence: "no open licence — all rights reserved"
-licence_basis: "Copyright statement on the article: '© 2024 by the Radiological Society of North America, Inc.' (PMC11304031). Free to read, but no Creative Commons licence — redistribution requires RSNA permission. Verified 2026-07-28."
+licence_basis: "Copyright statement on the article: '(c) 2024 by the Radiological Society of North America, Inc.' (PMC11304031). Free to read, no Creative Commons licence. Unpaywall shows a cc-by SUBMITTED version (preprint) in a repository, which does not cover the published 2024 checklist - a preprint may differ from the final text. Verified 2026-07-28."
 item_text: NOT REPRODUCED — licence does not permit redistribution
 last_checked: 2026-07-28
 ---

@@ -76,13 +76,18 @@ Guidelines that changed recently, or are expected to:
 
 ## Known issues
 
-- **Licence position, all 42 recorded.** 30 reproduced under an established licence — the
-  PRISMA, CONSORT and TRIPOD groups each distribute their checklists *and extensions* under
-  CC BY, which settled ten files at once. 8 carry no open licence at source and rest on
-  attribution plus the EQUATOR Network's terms. 3 are metadata-only because their licence
-  forbids reproducing the items in this format — CLAIM (all rights reserved), CHEERS-AI and
-  TRIPOD 2015 (both CC BY-NC-ND, where **ND** is the binding term). 1 is not yet checked
-  (STARD-AI). Several established licences are non-commercial. See `NOTICE`.
+- **Licence position, all 42 recorded — none unexamined.** 31 reproduced under an
+  established licence; the PRISMA, CONSORT and TRIPOD groups each distribute their
+  checklists *and extensions* under CC BY, which settled ten files at once. 8 carry no open
+  licence at source and rest on attribution plus the EQUATOR Network's terms. 3 are
+  metadata-only because their licence forbids reproducing the items in this format — CLAIM
+  (all rights reserved), CHEERS-AI and TRIPOD 2015 (both CC BY-NC-ND, where **ND** is the
+  binding term). Several established licences are non-commercial. See `NOTICE`.
+- **Version of record vs accepted manuscript.** Two files turn on this. STARD-AI's Nature
+  Medicine version of record is bronze OA with no licence, but the peer-reviewed *accepted*
+  version in institutional repositories is CC BY — that is the basis on which it is
+  reproduced. CLAIM has a CC BY *submitted* version (a preprint), which does **not** rescue
+  it: a preprint may differ from the published checklist, so CLAIM stays metadata-only.
 - **Weakest position: DECIDE-AI.** Version of record paywalled, only a green accepted
   manuscript openly available with no CC licence, and not covered by EQUATOR terms.
 - **Outstanding compliance task.** The EQUATOR terms require copies to retain all copyright

@@ -102,9 +102,9 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline and every position is recorded. 26 are reproduced under an
+Licences differ per guideline and every position is recorded. 31 are reproduced under an
 established licence — chiefly CC BY 4.0, since the PRISMA, CONSORT and TRIPOD groups each
-distribute their checklists and extensions under it. 9 carry no open licence at source and
+distribute their checklists and extensions under it. 8 carry no open licence at source and
 rest on attribution plus the EQUATOR Network's terms, which permit copying provided notices
 are retained. 3 are metadata-only because their licence forbids reproducing the items here.
 

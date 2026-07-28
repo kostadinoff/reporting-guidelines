@@ -8,7 +8,8 @@ items: 44
 citation_key: sounderajah2025stardai
 doi: 10.1038/s41591-025-03953-8
 official_url: https://www.equator-network.org/reporting-guidelines/stard-ai/
-licence: not verified — not yet checked at source
+licence: CC BY 4.0 (accepted version)
+licence_basis: "Unpaywall: the Nature Medicine version of record is bronze OA (free to read, no licence), but the peer-reviewed ACCEPTED version deposited in institutional repositories carries cc-by. Reproduced on the basis of the accepted version, which is the same checklist. Verified 2026-07-28."
 source_format: Journal article, Supplementary Table 2
 extracted: verbatim
 retrieved: 2026-07-28
