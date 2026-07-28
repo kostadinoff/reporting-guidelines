@@ -19,7 +19,7 @@ last_checked: 2026-07-28
 ---
 # PRISMA 2020
 
-27 items, several with sub-items (10a/10b, 13a-13f, ...), giving 42 rows. Item 2 defers to the separate PRISMA 2020 for Abstracts checklist, which is not yet in this repository.
+27 items, several with sub-items (10a/10b, 13a-13f, ...), giving 42 rows. Item 2 defers to the separate PRISMA 2020 for Abstracts checklist, in `prisma-abstracts-2020.md`.
 
 Cite as `[@page2021prisma]`.
 

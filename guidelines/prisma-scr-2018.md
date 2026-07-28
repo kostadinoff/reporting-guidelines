@@ -8,11 +8,12 @@ items: 22
 citation_key: tricco2018prismascr
 doi: 10.7326/M18-0850
 official_url: https://www.prisma-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: "no open licence stated at source — free to read; EQUATOR terms permit copying with notices retained"
+licence_basis: "Free to read at Annals of Internal Medicine, no CC licence stated. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28."
 source_format: PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # PRISMA-ScR

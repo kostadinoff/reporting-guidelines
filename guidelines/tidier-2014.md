@@ -8,11 +8,12 @@ items: 12
 citation_key: hoffmann2014tidier
 doi: 10.1136/bmj.g1687
 official_url: https://www.equator-network.org/reporting-guidelines/tidier/
-licence: not verified — confirm at official source before redistribution
+licence: "no open licence stated at source — free to read; EQUATOR terms permit copying with notices retained"
+licence_basis: "BMJ bronze OA (doi:10.1136/bmj.g1687): free to read, no licence declared. Indexed by EQUATOR, whose terms permit downloading and copying provided all copyright and proprietary notices are retained. Checked 2026-07-28."
 source_format: PDF checklist
 extracted: verbatim (items 1-7 de-interleaved from a column-split extraction — spot-check against source)
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # TIDieR

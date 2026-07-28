@@ -57,25 +57,42 @@ reuse beyond quotation needs the rightsholder's permission.
 
 | Guideline | Source | Position |
 |---|---|---|
+| Braun & Clarke 15-point checklist | Braun et al.  2013 | From Braun & Clarke, Successful Qualitative Research (SAGE 2013). Not an open-access article and not EQUATOR-indexed. Reproduced as short factual criteria with full citation. Checked 2026-07-28. |
+| CARE | Gagnier et al. Journal of clinical epidemiology 2014 | Checklist freely downloadable from care-statement.org; neither the site nor the J Clin Epidemiol article states an open licence. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
+| COREQ | Tong et al. International journal for quality in health care : journal of the International Society for Quality in Health Care 2007 | No open licence stated at Oxford/Int J Qual Health Care or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
+| DECIDE-AI | Vasey et al. Nature medicine 2022 | Nature Medicine version of record is paywalled; only a green accepted manuscript is openly available and it carries no CC licence. Not covered by EQUATOR terms. Checked 2026-07-28. |
+| MOOSE | Stroup et al. JAMA 2000 | No open licence stated at JAMA or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
+| PRISMA-ScR | Tricco et al. Annals of internal medicine 2018 | Free to read at Annals of Internal Medicine, no CC licence stated. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
+| RIGHT | Chen et al. Annals of internal medicine 2017 | Free to read at Annals of Internal Medicine, no CC licence stated. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
+| SRQR | O'Brien et al. Academic medicine : journal of the Association of American Medical Colleges 2014 | No open licence stated at Academic Medicine or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
+| TIDieR | Hoffmann et al. BMJ (Clinical research ed.) 2014 | BMJ bronze OA (doi:10.1136/bmj.g1687): free to read, no licence declared. Indexed by EQUATOR, whose terms permit downloading and copying provided all copyright and proprietary notices are retained. Checked 2026-07-28. |
 
-## Licence not yet verified
+## The EQUATOR Network terms of use
 
-Reproduced with full attribution and DOI, but the terms have **not** been confirmed.
-Treat as all-rights-reserved until checked at the official source. Guideline
-developers who object should open an issue; the entry will be removed or reduced to
-metadata and a link.
+Checked 2026-07-28 at https://www.equator-network.org/terms-of-use/. Relevant because
+EQUATOR hosts or indexes most of the guidelines listed above as having no licence of
+their own.
 
-| Guideline | Source | DOI |
-|---|---|---|
-| Braun & Clarke 15-point checklist | Braun et al.  2013 | null |
-| CARE | Gagnier et al. Journal of clinical epidemiology 2014 | 10.1016/j.jclinepi.2013.08.003 |
-| COREQ | Tong et al. International journal for quality in health care : journal of the International Society for Quality in Health Care 2007 | 10.1093/intqhc/mzm042 |
-| DECIDE-AI | Vasey et al. Nature medicine 2022 | 10.1038/s41591-022-01772-9 |
-| MOOSE | Stroup et al. JAMA 2000 | 10.1001/jama.283.15.2008 |
-| PRISMA-ScR | Tricco et al. Annals of internal medicine 2018 | 10.7326/M18-0850 |
-| RIGHT | Chen et al. Annals of internal medicine 2017 | 10.7326/M16-1565 |
-| SRQR | O'Brien et al. Academic medicine : journal of the Association of American Medical Colleges 2014 | 10.1097/ACM.0000000000000388 |
-| TIDieR | Hoffmann et al. BMJ (Clinical research ed.) 2014 | 10.1136/bmj.g1687 |
+> "Unless otherwise noted, all materials contained in this site are copyrighted and
+> may not be used except as provided in these terms and conditions or in the copyright
+> notice or other proprietary notice provided with the relevant materials."
+
+Materials may be downloaded or copied **provided that ALL copies retain the copyright
+and any other proprietary notices contained on the materials**. The only stated
+restriction on modification is against editing that creates a false or misleading
+impression of EQUATOR's positions — there is no NoDerivatives term and no
+non-commercial restriction.
+
+**What this does not do.** EQUATOR hosts and indexes reporting guidelines; it does not
+own them, and its terms defer explicitly to the notices supplied with the materials
+themselves. It cannot grant rights in a checklist it does not hold. Treat this as a
+permissive posture toward copying, not as a licence.
+
+**Outstanding compliance task.** The condition is that copies retain all copyright
+notices carried on the source material. Each file records author, DOI, official URL
+and licence basis, but not the literal copyright line printed on each checklist PDF.
+Capturing those verbatim would move these entries from arguably compliant to
+demonstrably compliant.
 
 ## Known restrictions
 

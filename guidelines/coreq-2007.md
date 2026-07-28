@@ -8,11 +8,12 @@ items: 32
 citation_key: tong2007coreq
 doi: 10.1093/intqhc/mzm042
 official_url: https://www.equator-network.org/reporting-guidelines/coreq/
-licence: not verified — confirm at official source before redistribution
+licence: "no open licence stated at source — free to read; EQUATOR terms permit copying with notices retained"
+licence_basis: "No open licence stated at Oxford/Int J Qual Health Care or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28."
 source_format: PDF (journal article, Table 1)
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # COREQ
@@ -22,8 +23,8 @@ specifically** — it does not cover observational or documentary qualitative wo
 
 Each item is phrased as a question the report must answer.
 
-Cite as `[@tong2007coreq]`. See also SRQR (not yet in this repository), which is broader in
-scope and less interview-specific, and `[@braun2024qualitative]` for a critique of
+Cite as `[@tong2007coreq]`. See also `srqr-2014.md`, which is broader in scope and less
+interview-specific, and `[@braun2024qualitative]` for a critique of
 checklist-based qualitative reporting.
 
 ## Domain 1: Research team and reflexivity

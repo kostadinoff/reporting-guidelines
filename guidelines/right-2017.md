@@ -8,11 +8,12 @@ item_blocks: 35
 citation_key: chen2017right
 doi: 10.7326/M16-1565
 official_url: https://www.right-statement.org/
-licence: not verified — confirm at official source before redistribution
+licence: "no open licence stated at source — free to read; EQUATOR terms permit copying with notices retained"
+licence_basis: "Free to read at Annals of Internal Medicine, no CC licence stated. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28."
 source_format: Journal article, checklist table
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # RIGHT

@@ -8,11 +8,12 @@ numbering: "17 AI-specific items in Arabic numerals; 10 generic items in Roman n
 citation_key: vasey2022decideai
 doi: 10.1038/s41591-022-01772-9
 official_url: https://www.decide-ai.org/
-licence: not verified — confirm at official source before redistribution
+licence: "no open licence stated at source — weakest position in this repository"
+licence_basis: "Nature Medicine version of record is paywalled; only a green accepted manuscript is openly available and it carries no CC licence. Not covered by EQUATOR terms. Checked 2026-07-28."
 source_format: Journal article, Table 2
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # DECIDE-AI

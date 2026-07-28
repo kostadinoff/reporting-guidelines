@@ -79,17 +79,39 @@ for r in sorted(closed, key=lambda x: x["name"].lower()):
     src = f"{first_author(r['authors'])} {r['journal']} {r['year']}".strip()
     out.append(f"| {r['name']} | {src} | {r['basis'] or r['lic']} |")
 
-out += ["", "## Licence not yet verified", "",
-        "Reproduced with full attribution and DOI, but the terms have **not** been confirmed.",
-        "Treat as all-rights-reserved until checked at the official source. Guideline",
-        "developers who object should open an issue; the entry will be removed or reduced to",
-        "metadata and a link.", "",
-        "| Guideline | Source | DOI |", "|---|---|---|"]
-for r in sorted(unverified, key=lambda x: x["name"].lower()):
-    src = f"{first_author(r['authors'])} {r['journal']} {r['year']}".strip()
-    out.append(f"| {r['name']} | {src} | {r['doi']} |")
+if unverified:
+    out += ["", "## Licence not yet verified", "",
+            "Reproduced with full attribution and DOI, but the terms have **not** been confirmed.",
+            "Treat as all-rights-reserved until checked at the official source. Guideline",
+            "developers who object should open an issue; the entry will be removed or reduced to",
+            "metadata and a link.", "",
+            "| Guideline | Source | DOI |", "|---|---|---|"]
+    for r in sorted(unverified, key=lambda x: x["name"].lower()):
+        src = f"{first_author(r['authors'])} {r['journal']} {r['year']}".strip()
+        out.append(f"| {r['name']} | {src} | {r['doi']} |")
 
-out += ["", "## Known restrictions", "",
+out += ["", "## The EQUATOR Network terms of use", "",
+        "Checked 2026-07-28 at https://www.equator-network.org/terms-of-use/. Relevant because",
+        "EQUATOR hosts or indexes most of the guidelines listed above as having no licence of",
+        "their own.", "",
+        "> \"Unless otherwise noted, all materials contained in this site are copyrighted and",
+        "> may not be used except as provided in these terms and conditions or in the copyright",
+        "> notice or other proprietary notice provided with the relevant materials.\"", "",
+        "Materials may be downloaded or copied **provided that ALL copies retain the copyright",
+        "and any other proprietary notices contained on the materials**. The only stated",
+        "restriction on modification is against editing that creates a false or misleading",
+        "impression of EQUATOR's positions — there is no NoDerivatives term and no",
+        "non-commercial restriction.", "",
+        "**What this does not do.** EQUATOR hosts and indexes reporting guidelines; it does not",
+        "own them, and its terms defer explicitly to the notices supplied with the materials",
+        "themselves. It cannot grant rights in a checklist it does not hold. Treat this as a",
+        "permissive posture toward copying, not as a licence.", "",
+        "**Outstanding compliance task.** The condition is that copies retain all copyright",
+        "notices carried on the source material. Each file records author, DOI, official URL",
+        "and licence basis, but not the literal copyright line printed on each checklist PDF.",
+        "Capturing those verbatim would move these entries from arguably compliant to",
+        "demonstrably compliant.", "",
+        "## Known restrictions", "",
         "- **AGREE** — the AGREE Research Trust requires registration for access to AGREE II",
         "  materials. The AGREE Reporting Checklist reproduced here was published open access",
         "  in the BMJ under CC BY-NC 4.0, so commercial reuse is excluded.",

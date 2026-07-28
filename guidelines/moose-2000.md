@@ -8,11 +8,12 @@ numbering: "unnumbered in the source; numbered sequentially here for reference"
 citation_key: stroup2000moose
 doi: 10.1001/jama.283.15.2008
 official_url: https://www.equator-network.org/reporting-guidelines/meta-analysis-of-observational-studies-in-epidemiology-a-proposal-for-reporting/
-licence: not verified — confirm at official source before redistribution
+licence: "no open licence stated at source — free to read; EQUATOR terms permit copying with notices retained"
+licence_basis: "No open licence stated at JAMA or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28."
 source_format: Checklist form
 extracted: verbatim
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # MOOSE

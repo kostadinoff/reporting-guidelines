@@ -78,13 +78,23 @@ Guidelines that changed recently, or are expected to:
 
 ## Known issues
 
-- **Nine licences still unverified.** After the 2026-07-28 verification, 25 guidelines
-  carry an established Creative Commons licence and CLAIM is confirmed to have none.
-  Nine remain unconfirmed — CARE, COREQ, MOOSE, SRQR, PRISMA-ScR, RIGHT, DECIDE-AI,
-  TIDieR, and the Braun & Clarke checklist — and still carry `licence: not verified`.
-  This matters because the repository is public: confirm terms before relying on
-  redistribution. Several established licences are also non-commercial or no-derivatives;
-  see the known-restrictions section of `NOTICE`.
+- **Licence position, all 35 recorded — none unexamined.** 23 reproduced under an
+  established Creative Commons licence; 9 carry no open licence at source and rest on
+  attribution plus the EQUATOR Network's terms of use, which permit copying provided all
+  notices are retained; 3 are metadata-only because their licence forbids reproducing the
+  items in this format — CLAIM (all rights reserved), CHEERS-AI and TRIPOD 2015 (both
+  CC BY-NC-ND, where the **ND** term is the binding one). Several established licences are
+  non-commercial. See `NOTICE` for the per-guideline detail and for what the EQUATOR terms
+  do and do not grant.
+- **The complete set, including the three stubs, is held privately** in
+  `MEGA/skills/data/reporting-guidelines/`. Do not mirror that directory publicly.
+- **Weakest position: DECIDE-AI.** Version of record paywalled, only a green accepted
+  manuscript openly available with no CC licence, and not covered by EQUATOR terms.
+- **Outstanding compliance task.** The EQUATOR terms require copies to retain all copyright
+  notices carried on the source material. Files record author, DOI, official URL and licence
+  basis, but not the literal copyright line printed on each checklist PDF. Capturing those
+  would move the nine from arguably compliant to demonstrably compliant.
+
 - **STROBE design-specific variants not included.** The combined checklist covering cohort,
   case-control, and cross-sectional designs is here; the three separate per-design files are
   not. The combined file marks design-specific items with an asterisk, which covers most
@@ -97,7 +107,3 @@ Guidelines that changed recently, or are expected to:
 - **Flow diagrams not transcribed.** CONSORT 2025, STARD 2015, and PRISMA 2020 each have a
   flow diagram. These are images and cannot be represented as item text; use the official
   templates.
-- **One downloaded file was not a reporting guideline.** `1748-5908-7-70.pdf` was Scott et
-  al., *Systematic review of knowledge translation strategies in the allied health
-  professions* (Implementation Science 2012;7:70) — a systematic review, not a guideline.
-  Excluded, and not recorded in `references.bib`.

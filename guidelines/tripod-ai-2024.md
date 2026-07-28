@@ -35,8 +35,8 @@ Applicability markers:
 - **E** — relevant only to model *evaluation*
 - **D;E** — applies to both
 
-A companion **TRIPOD+AI for Abstracts** checklist (13 items) exists and is not yet in this
-repository.
+A companion **TRIPOD+AI for Abstracts** checklist (13 items) is in
+`tripod-ai-abstracts-2024.md` — item 2 above defers to it.
 
 Cite as `[@collins2024tripodai]`.
 

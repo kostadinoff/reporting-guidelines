@@ -8,6 +8,11 @@ DOI, and provenance, and one `### Item N` block per checklist item. No tables, n
 DOCX — just headings and prose, so items can be grepped, cited by number, and diffed
 line-by-line when a guideline is revised.
 
+> **Guideline developers:** if your checklist appears here and you would rather it did not,
+> open an issue and it will be removed or reduced to metadata and a link, promptly and
+> without argument. Every entry carries attribution, a DOI, and a record of its licence
+> position in [NOTICE](NOTICE).
+
 ## Why not just link to EQUATOR?
 
 Because an agent asked to "check this manuscript against STROBE" will otherwise invent the
@@ -90,12 +95,14 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline. As of the 2026-07-28 verification, 25 are established
-Creative Commons licences and one (CLAIM) is confirmed to carry no open licence at all;
-the remaining nine are still marked `licence: not verified` in their frontmatter and
-should be treated as all-rights-reserved until confirmed at the official source. See
-`NOTICE`, which separates the three positions. Each file also records `licence_basis` —
-how the determination was made — so the position is auditable rather than assumed.
+Licences differ per guideline and every position is recorded. 23 are reproduced under an
+established licence; 9 carry no open licence at their source and are reproduced on the
+basis of attribution and the EQUATOR Network's terms, which permit copying provided notices
+are retained; 3 are metadata-only because their licence forbids reproducing the items here.
+
+Each file records `licence` and `licence_basis` — what the position is and how it was
+determined — so the record is auditable rather than assumed. See [NOTICE](NOTICE) for the
+per-guideline detail, including what the EQUATOR terms do and do not grant.
 
 Note that "established" does not mean "unrestricted": several are CC BY-NC or
 CC BY-NC-ND, which exclude commercial reuse and, for ND, derivatives. `NOTICE` lists

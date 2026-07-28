@@ -7,11 +7,12 @@ items: 15
 citation_key: braun2013successful
 doi: null
 official_url: https://study.sagepub.com/book/successful-qualitative-research
-licence: not verified — confirm at official source before redistribution
+licence: "no open licence — SAGE book"
+licence_basis: "From Braun & Clarke, Successful Qualitative Research (SAGE 2013). Not an open-access article and not EQUATOR-indexed. Reproduced as short factual criteria with full citation. Checked 2026-07-28."
 source_format: Book (Successful Qualitative Research, SAGE 2013); transcribed from a completed copy filed as journal supplementary material
 extracted: verbatim (criteria only — the completing study's responses omitted)
 retrieved: 2026-07-27
-last_checked: 2026-07-27
+last_checked: 2026-07-28
 ---
 
 # Braun & Clarke 15-point checklist
