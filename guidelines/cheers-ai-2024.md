@@ -9,7 +9,7 @@ citation_key: elvidge2024cheersai
 doi: 10.1016/j.jval.2024.05.006
 official_url: https://www.equator-network.org/reporting-guidelines/cheers/
 licence: "CC BY-NC-ND 4.0"
-licence_basis: "Crossref licence metadata for the version of record (Value in Health, Elsevier). Verified 2026-07-28."
+licence_basis: "Unpaywall 2026-07-28: the Value in Health version of record is bronze OA - free to read, no licence. The accepted version (LSE eprints) also carries no licence. The only CC-licensed copies are SUBMITTED versions (preprints, at Birmingham/Oxford/PMC) and those are cc-by-nc-nd. Two reasons this cannot be reproduced here: ND forbids the per-item restructuring, and a preprint may differ from the published checklist."
 item_text: NOT REPRODUCED — licence does not permit redistribution
 last_checked: 2026-07-28
 ---

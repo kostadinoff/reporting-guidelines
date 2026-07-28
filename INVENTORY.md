@@ -45,7 +45,9 @@ RECORD, RECORD-PE and CODE-EHR are the administrative-data checklists most relev
 and NCPHA work. Layer them on STROBE, not instead of it. CONSORT-ROUTINE is the trials
 counterpart for studies run inside routine data.
 
-Still absent: CONSORT-Equity, CONSORT for children and adolescents, SPIRIT-Outcomes 2022
+Still absent: **TRIPOD-LLM** (2025, for large language models) and **TRIPOD-SRMA** (26 items,
+systematic reviews and meta-analyses of prediction models) — both on the TRIPOD resources
+portal; CONSORT-Equity, CONSORT for children and adolescents, SPIRIT-Outcomes 2022
 (the protocol counterpart of CONSORT-Outcomes, JAMA 2022, doi:10.1001/jama.2022.21243),
 SPIRIT-Surrogate, CARE extensions, and PRISMA-DTA for Abstracts.
 
