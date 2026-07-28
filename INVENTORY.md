@@ -13,7 +13,7 @@ Status values:
 
 ## Present, complete
 
-All item text verbatim, counts checked against the published guideline. 33 files.
+All item text verbatim, counts checked against the published guideline. 39 files.
 
 **Core designs** — CONSORT 2025, SPIRIT 2025, STROBE, PRISMA 2020, PRISMA-P, PRISMA for
 Abstracts, STARD 2015, TRIPOD+AI 2024, TRIPOD 2015 (superseded), AGREE, CARE, COREQ, SRQR,
@@ -23,11 +23,14 @@ SQUIRE 2.0, CHEERS 2022, ARRIVE 2.0, RIGHT, RIGHT-PVG, MOOSE.
 the closest fit for NHIF and NCPHA work.
 
 **Extensions** — TIDieR (interventions), GREET (EBP education, built on TIDieR),
-PRISMA-ScR (scoping reviews), STROBE-MR (Mendelian randomization), TRIPOD+AI for Abstracts.
+PRISMA-ScR (scoping reviews), PRISMA-DTA (diagnostic accuracy reviews), PRISMA-S (literature
+searches), PRISMA-E (health equity), PRISMA-LSR (living reviews), STROBE-MR (Mendelian
+randomization), CONSORT-ROUTINE (trials run in cohorts or routine data), TRIPOD-Cluster
+(clustered data), TRIPOD+AI for Abstracts.
 
 **AI-specific** — TRIPOD+AI (prediction models), CONSORT-AI and SPIRIT-AI (trials and
-protocols), CHEERS-AI (economic evaluation), CLAIM (medical imaging), DECIDE-AI (early
-live clinical evaluation of decision-support systems).
+protocols), CHEERS-AI (economic evaluation), STARD-AI (diagnostic accuracy), CLAIM (medical
+imaging), DECIDE-AI (early live clinical evaluation of decision-support systems).
 
 **Qualitative** — COREQ (interviews/focus groups), SRQR (any design), Braun & Clarke
 15-point checklist (quality of a thematic analysis, not reporting structure).
@@ -46,12 +49,7 @@ Nothing from the original scope is missing. Remaining candidates are further ext
 
 | Guideline | Covers |
 |---|---|
-| PRISMA-DTA | Diagnostic test accuracy reviews |
-| PRISMA-S | Search-strategy reporting |
-| PRISMA-LSR / PRISMA-Equity | Living reviews; equity-focused reviews |
-| CONSORT-Outcomes 2022, CONSORT-Equity, CONSORT-ROUTINE | CONSORT extensions |
-| STARD-AI, DECIDE-AI, CLAIM | AI diagnostic accuracy, early clinical evaluation, medical imaging |
-| TRIPOD-Cluster | Prediction models accounting for clustering (referenced by TRIPOD+AI items 12d, 23b) |
+| CONSORT-Outcomes 2022, CONSORT-Equity | CONSORT extensions |
 
 ### Extensions not yet included
 
@@ -78,14 +76,13 @@ Guidelines that changed recently, or are expected to:
 
 ## Known issues
 
-- **Licence position, all 35 recorded — none unexamined.** 23 reproduced under an
-  established Creative Commons licence; 9 carry no open licence at source and rest on
-  attribution plus the EQUATOR Network's terms of use, which permit copying provided all
-  notices are retained; 3 are metadata-only because their licence forbids reproducing the
-  items in this format — CLAIM (all rights reserved), CHEERS-AI and TRIPOD 2015 (both
-  CC BY-NC-ND, where the **ND** term is the binding one). Several established licences are
-  non-commercial. See `NOTICE` for the per-guideline detail and for what the EQUATOR terms
-  do and do not grant.
+- **Licence position, all 42 recorded.** 30 reproduced under an established licence — the
+  PRISMA, CONSORT and TRIPOD groups each distribute their checklists *and extensions* under
+  CC BY, which settled ten files at once. 8 carry no open licence at source and rest on
+  attribution plus the EQUATOR Network's terms. 3 are metadata-only because their licence
+  forbids reproducing the items in this format — CLAIM (all rights reserved), CHEERS-AI and
+  TRIPOD 2015 (both CC BY-NC-ND, where **ND** is the binding term). 1 is not yet checked
+  (STARD-AI). Several established licences are non-commercial. See `NOTICE`.
 - **Weakest position: DECIDE-AI.** Version of record paywalled, only a green accepted
   manuscript openly available with no CC licence, and not covered by EQUATOR terms.
 - **Outstanding compliance task.** The EQUATOR terms require copies to retain all copyright

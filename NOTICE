@@ -4,7 +4,7 @@ Attribution and licence position for every reporting guideline reproduced in thi
 repository. Generated from the guideline files themselves — see `LICENSE` for the
 split between this repository's own contribution and the guideline developers' work.
 
-Last generated: 2026-07-28. 35 guidelines.
+Last generated: 2026-07-28. 42 guidelines.
 
 ## Item text NOT reproduced here
 
@@ -32,10 +32,16 @@ Reproduced under the stated licence, with attribution as required.
 | CODE-EHR | Kotecha et al. BMJ (Clinical research ed.) 2022 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | CONSORT 2025 | Hopewell et al. BMJ (Clinical research ed.) 2025 | CC BY 4.0 | Open Access statement on the article: 'This is an Open Access article distributed under the terms of the Creative Commons Attribution License', verified 2026-07-28. CONSORT 2025 and SPIRIT 2025 were published together under the same arrangement across five journals. |
 | CONSORT-AI | Liu et al. Nature medicine 2020 | CC BY 4.0 | Unpaywall reports cc-by for the Nature Medicine version of record; Europe PMC PMC7598943 carries the same licence. Verified 2026-07-28. |
+| CONSORT-ROUTINE | Kwakkenbos et al. BMJ (Clinical research ed.) 2021 | CC BY 4.0 | CONSORT checklists are distributed under CC BY per the CONSORT site: 'The CONSORT checklist is distributed under the terms of the Creative Commons Attribution License CC-BY.' Extensions are hosted on the same site. Full text of this extension is freely available at bmj.com/content/373/bmj.n857. Verified 2026-07-28. |
 | GREET | Phillips et al. BMC medical education 2016 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
 | PRISMA 2020 | Page et al. BMJ (Clinical research ed.) 2021 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | PRISMA 2020 for Abstracts | Page et al. BMJ (Clinical research ed.) 2021 | CC BY 4.0 | stated on the checklist PDF itself |
+| PRISMA-DTA | McInnes et al. JAMA 2018 | CC BY 4.0 | PRISMA checklists are distributed under CC BY 4.0 per prisma-statement.org: 'The PRISMA 2020 checklists are distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license.' Extensions are hosted on the same site. Verified 2026-07-28. |
+| PRISMA-E 2012 | Welch et al. PLoS medicine 2012 | CC BY 4.0 | PLOS (all articles CC BY by publisher policy); PRISMA checklists are additionally distributed under CC BY 4.0 per prisma-statement.org. Verified 2026-07-28. |
+| PRISMA-LSR | Akl et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | PRISMA checklists are distributed under CC BY 4.0 per prisma-statement.org: 'The PRISMA 2020 checklists are distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license.' Extensions are hosted on the same site. Verified 2026-07-28. |
 | PRISMA-P | Moher et al. Systematic reviews 2015 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
+| PRISMA-S | Rethlefsen et al. Systematic reviews 2021 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (Systematic Reviews) — CC BY 4.0 by publisher policy |
+| PRISMA-ScR | Tricco et al. Annals of internal medicine 2018 | CC BY 4.0 | PRISMA checklists are distributed under CC BY 4.0 per prisma-statement.org: 'The PRISMA 2020 checklists are distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license.' Extensions are hosted on the same site. Verified 2026-07-28. |
 | RECORD | Benchimol et al. PLoS medicine 2015 | CC BY 4.0 | PLOS (all articles CC BY 4.0 by publisher policy) |
 | RECORD-PE | Langan et al. BMJ (Clinical research ed.) 2018 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | RIGHT for PVG | Wang et al. Implementation science : IS 2021 | CC BY 4.0 | BMC / Springer Nature fully-OA journal (CC BY 4.0 by publisher policy) |
@@ -48,6 +54,7 @@ Reproduced under the stated licence, with attribution as required.
 | STROBE-MR | Skrivankova et al. BMJ (Clinical research ed.) 2021 | CC BY 3.0 | stated on the checklist itself (EQUATOR Network, CC BY 3.0) |
 | TRIPOD+AI | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | TRIPOD+AI for Abstracts | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record (the same paper as tripod-ai-2024). Verified 2026-07-28. |
+| TRIPOD-Cluster | Debray et al. BMJ (Clinical research ed.) 2023 | CC BY 4.0 | Hosted on tripod-statement.org alongside TRIPOD+AI, whose BMJ version of record Unpaywall reports as cc-by. Same site, same journal, same publication arrangement. Verified 2026-07-28. |
 
 ## Verified — no open licence
 
@@ -62,10 +69,20 @@ reuse beyond quotation needs the rightsholder's permission.
 | COREQ | Tong et al. International journal for quality in health care : journal of the International Society for Quality in Health Care 2007 | No open licence stated at Oxford/Int J Qual Health Care or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
 | DECIDE-AI | Vasey et al. Nature medicine 2022 | Nature Medicine version of record is paywalled; only a green accepted manuscript is openly available and it carries no CC licence. Not covered by EQUATOR terms. Checked 2026-07-28. |
 | MOOSE | Stroup et al. JAMA 2000 | No open licence stated at JAMA or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
-| PRISMA-ScR | Tricco et al. Annals of internal medicine 2018 | Free to read at Annals of Internal Medicine, no CC licence stated. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
 | RIGHT | Chen et al. Annals of internal medicine 2017 | Free to read at Annals of Internal Medicine, no CC licence stated. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
 | SRQR | O'Brien et al. Academic medicine : journal of the Association of American Medical Colleges 2014 | No open licence stated at Academic Medicine or on the EQUATOR page. EQUATOR terms permit copying with notices retained. Checked 2026-07-28. |
 | TIDieR | Hoffmann et al. BMJ (Clinical research ed.) 2014 | BMJ bronze OA (doi:10.1136/bmj.g1687): free to read, no licence declared. Indexed by EQUATOR, whose terms permit downloading and copying provided all copyright and proprietary notices are retained. Checked 2026-07-28. |
+
+## Licence not yet verified
+
+Reproduced with full attribution and DOI, but the terms have **not** been confirmed.
+Treat as all-rights-reserved until checked at the official source. Guideline
+developers who object should open an issue; the entry will be removed or reduced to
+metadata and a link.
+
+| Guideline | Source | DOI |
+|---|---|---|
+| STARD-AI | Sounderajah et al. Nature medicine 2025 | 10.1038/s41591-025-03953-8 |
 
 ## The EQUATOR Network terms of use
 

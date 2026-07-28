@@ -59,13 +59,18 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | CODE-EHR | 2022 | 8 | full item text |
 | CONSORT 2025 | 2025 | 30 | full item text — supersedes CONSORT 2010 |
 | CONSORT-AI | 2020 | 14 | full item text — extends consort-2025 |
+| CONSORT-ROUTINE | 2021 | 13 | full item text — extends consort-2025 |
 | COREQ | 2007 | 32 | full item text |
 | DECIDE-AI | 2022 | 27 | full item text |
 | GREET | 2015 checklist (published 2016) | 17 | full item text — extends tidier-2014 |
 | MOOSE | 2000 | 34 | full item text |
 | PRISMA 2020 | 2020 | 27 | full item text — supersedes PRISMA 2009 |
 | PRISMA 2020 for Abstracts | 2020 | 12 | full item text — supersedes PRISMA for Abstracts (2013) |
+| PRISMA-DTA | 2018 | 27 | full item text — extends prisma-2020 |
+| PRISMA-E 2012 | 2012 | 16 | full item text — extends prisma-2020 |
+| PRISMA-LSR | 2024 | 4 | full item text — extends prisma-2020 |
 | PRISMA-P | 2015 | 17 | full item text |
+| PRISMA-S | 2021 | 16 | full item text — extends prisma-2020 |
 | PRISMA-ScR | 2018 | 22 | full item text — extends prisma-2020 |
 | RECORD | 2015 | 13 | full item text — extends strobe-2007 |
 | RECORD-PE | 2018 | 15 | full item text — extends strobe-2007, record-2015 |
@@ -77,12 +82,14 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | SQUIRE 2.0 | 2.0 (2015) | 18 | full item text — supersedes SQUIRE 1.0 |
 | SRQR | 2014 | 21 | full item text |
 | STARD 2015 | 2015 | 30 | full item text — supersedes STARD 2003 |
+| STARD-AI | 2025 | 44 | full item text — extends stard-2015 |
 | STROBE | 2007 | 22 | full item text |
 | STROBE-MR | 2021 | 20 | full item text — extends strobe-2007 |
 | TIDieR | 2014 | 12 | full item text — extends consort-2025, spirit-2025 |
 | TRIPOD | 2015 | 22 | **metadata only — licence forbids reproducing items here** |
 | TRIPOD+AI | 2024 | 27 | full item text — supersedes TRIPOD 2015 |
 | TRIPOD+AI for Abstracts | 2024 | 13 | full item text — extends tripod-ai-2024 |
+| TRIPOD-Cluster | 2023 | 19 | full item text — extends tripod-ai-2024 |
 
 Every guideline in the original scope is now present with full item text. Remaining gaps
 are extension checklists (PRISMA-ScR, PRISMA-DTA, STROBE-MR, CONSORT-AI, ...) and the five
@@ -95,14 +102,15 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline and every position is recorded. 23 are reproduced under an
-established licence; 9 carry no open licence at their source and are reproduced on the
-basis of attribution and the EQUATOR Network's terms, which permit copying provided notices
-are retained; 3 are metadata-only because their licence forbids reproducing the items here.
+Licences differ per guideline and every position is recorded. 26 are reproduced under an
+established licence — chiefly CC BY 4.0, since the PRISMA, CONSORT and TRIPOD groups each
+distribute their checklists and extensions under it. 9 carry no open licence at source and
+rest on attribution plus the EQUATOR Network's terms, which permit copying provided notices
+are retained. 3 are metadata-only because their licence forbids reproducing the items here.
 
 Each file records `licence` and `licence_basis` — what the position is and how it was
 determined — so the record is auditable rather than assumed. See [NOTICE](NOTICE) for the
-per-guideline detail, including what the EQUATOR terms do and do not grant.
+per-guideline detail and for what the EQUATOR terms do and do not grant.
 
 Note that "established" does not mean "unrestricted": several are CC BY-NC or
 CC BY-NC-ND, which exclude commercial reuse and, for ND, derivatives. `NOTICE` lists

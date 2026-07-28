@@ -8,8 +8,8 @@ items: 22
 citation_key: tricco2018prismascr
 doi: 10.7326/M18-0850
 official_url: https://www.prisma-statement.org/
-licence: "no open licence stated at source — free to read; EQUATOR terms permit copying with notices retained"
-licence_basis: "Free to read at Annals of Internal Medicine, no CC licence stated. EQUATOR-indexed; EQUATOR terms permit copying with notices retained. Checked 2026-07-28."
+licence: CC BY 4.0
+licence_basis: "PRISMA checklists are distributed under CC BY 4.0 per prisma-statement.org: 'The PRISMA 2020 checklists are distributed in accordance with the terms of the Creative Commons Attribution (CC BY 4.0) license.' Extensions are hosted on the same site. Verified 2026-07-28."
 source_format: PDF checklist
 extracted: verbatim
 retrieved: 2026-07-27
