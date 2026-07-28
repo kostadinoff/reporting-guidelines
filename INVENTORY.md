@@ -86,8 +86,6 @@ Guidelines that changed recently, or are expected to:
   CC BY-NC-ND, where the **ND** term is the binding one). Several established licences are
   non-commercial. See `NOTICE` for the per-guideline detail and for what the EQUATOR terms
   do and do not grant.
-- **The complete set, including the three stubs, is held privately** in
-  `MEGA/skills/data/reporting-guidelines/`. Do not mirror that directory publicly.
 - **Weakest position: DECIDE-AI.** Version of record paywalled, only a green accepted
   manuscript openly available with no CC licence, and not covered by EQUATOR terms.
 - **Outstanding compliance task.** The EQUATOR terms require copies to retain all copyright
