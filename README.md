@@ -86,6 +86,7 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | STARD-AI | 2025 | 44 | full item text — extends stard-2015 |
 | STROBE | 2007 | 22 | full item text |
 | STROBE-MR | 2021 | 20 | full item text — extends strobe-2007 |
+| TARGET | 2025 | 21 | full item text as a **verbatim table** (CC BY-ND) — layers on strobe-2007 |
 | TIDieR | 2014 | 12 | full item text — extends consort-2025, spirit-2025 |
 | TRIPOD | 2015 | 22 | **metadata only — licence forbids reproducing items here** |
 | TRIPOD+AI | 2024 | 27 | full item text — supersedes TRIPOD 2015 |
@@ -93,8 +94,8 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 | TRIPOD-Cluster | 2023 | 19 | full item text — extends tripod-ai-2024 |
 
 Every guideline in the original scope is now present with full item text. Remaining gaps
-are extension checklists (PRISMA-ScR, PRISMA-DTA, STROBE-MR, CONSORT-AI, ...) and the five
-metadata-only files listed in [INVENTORY.md](INVENTORY.md). See [INVENTORY.md](INVENTORY.md).
+are the extension checklists still to be added and the three metadata-only files listed in
+[INVENTORY.md](INVENTORY.md). See [INVENTORY.md](INVENTORY.md).
 
 ## Provenance and licensing
 
@@ -103,11 +104,16 @@ guideline group, or from the checklist table in the source article. Source files
 redistributed here — every guideline's DOI is in `references.bib`, so the original is
 retrievable.
 
-Licences differ per guideline and every position is recorded. 32 are reproduced under an
+Licences differ per guideline and every position is recorded. 33 are reproduced under an
 established licence — chiefly CC BY 4.0, since the PRISMA, CONSORT and TRIPOD groups each
 distribute their checklists and extensions under it. 8 carry no open licence at source and
 rest on attribution plus the EQUATOR Network's terms, which permit copying provided notices
 are retained. 3 are metadata-only because their licence forbids reproducing the items here.
+
+One file, `target-2025.md`, sits between those categories. TARGET is CC BY-**ND**, so the
+per-item block structure is not available, but ND permits reproduction in any format — so the
+checklist is carried unchanged and in whole as its published table, with the copyright notice,
+under `extracted: verbatim-table`. Grep it by item number in the table, not by `### Item N`.
 
 Each file records `licence` and `licence_basis` — what the position is and how it was
 determined — so the record is auditable rather than assumed. See [NOTICE](NOTICE) for the

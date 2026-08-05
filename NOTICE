@@ -4,7 +4,7 @@ Attribution and licence position for every reporting guideline reproduced in thi
 repository. Generated from the guideline files themselves — see `LICENSE` for the
 split between this repository's own contribution and the guideline developers' work.
 
-Last generated: 2026-07-28. 43 guidelines.
+Last generated: 2026-08-05. 44 guidelines.
 
 ## Item text NOT reproduced here
 
@@ -12,6 +12,14 @@ For these the licence forbids reproducing the checklist in this format — chief
 **ND (NoDerivatives)** term, which the per-item block structure would breach, or no open
 licence at all. Only factual metadata is kept, so routing and cross-references still work.
 Get the items from the official source.
+
+**ND does not automatically mean a stub.** CC BY-ND permits reproducing and sharing the
+licensed material in any medium or format; it withholds only the sharing of *adapted*
+material. Where a checklist can be carried unchanged and in whole as its published table,
+it is — see TARGET, whose file records `extracted: verbatim-table` instead of the per-item
+blocks used elsewhere. A stub is used when even that is not available: no open licence at
+all, or the only openly licensed copy is a submitted preprint that may differ from the
+published checklist.
 
 | Guideline | Source | Licence | Why |
 |---|---|---|---|
@@ -54,6 +62,7 @@ Reproduced under the stated licence, with attribution as required.
 | STARD-AI | Sounderajah et al. Nature medicine 2025 | CC BY 4.0 (accepted version) | Unpaywall: the Nature Medicine version of record is bronze OA (free to read, no licence), but the peer-reviewed ACCEPTED version deposited in institutional repositories carries cc-by. Reproduced on the basis of the accepted version, which is the same checklist. Verified 2026-07-28. |
 | STROBE | von Elm et al. Lancet (London, England) 2007 | CC BY | The Lancet version of record (10.1016/S0140-6736(07)61602-X) is paywalled. STROBE was co-published open access in PLoS Medicine (10.1371/journal.pmed.0040296), which carries an explicit Creative Commons Attribution open-access statement; the checklist text is the same. Licence version not stated. Verified 2026-07-28. |
 | STROBE-MR | Skrivankova et al. BMJ (Clinical research ed.) 2021 | CC BY 3.0 | stated on the checklist itself (EQUATOR Network, CC BY 3.0) |
+| TARGET | Cashin et al. JAMA 2025 | CC BY-ND 4.0 | The TARGET group licenses the checklist itself, independently of the journal: 'The TARGET Checklist is licensed by the TARGET group under the Creative Commons Attribution-NoDerivs (CC BY-ND) 4.0 International license' — stated on the JAMA version of record and repeated on the PMC deposit (PMC13084563). The statement was co-published in JAMA and The BMJ (doi:10.1136/bmj-2025-087179); the checklist licence is the developers' and does not vary by journal. Verified 2026-08-05. |
 | TRIPOD+AI | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record. Verified 2026-07-28. |
 | TRIPOD+AI for Abstracts | Collins et al. BMJ (Clinical research ed.) 2024 | CC BY 4.0 | Unpaywall reports cc-by for the BMJ version of record (the same paper as tripod-ai-2024). Verified 2026-07-28. |
 | TRIPOD-Cluster | Debray et al. BMJ (Clinical research ed.) 2023 | CC BY 4.0 | Hosted on tripod-statement.org alongside TRIPOD+AI, whose BMJ version of record Unpaywall reports as cc-by. Same site, same journal, same publication arrangement. Verified 2026-07-28. |
@@ -118,6 +127,11 @@ demonstrably compliant.
   Both exclude commercial use and derivatives.
 - **CHEERS-AI** and **SQUIRE 2.0** — CC BY-NC-ND 4.0 and CC BY-NC 4.0 respectively;
   neither permits commercial redistribution.
+- **TARGET** — CC BY-ND 4.0, licensed by the TARGET group over the checklist itself
+  rather than by any of the journals it was co-published in, so the licence is the same
+  in JAMA and the BMJ. Commercial redistribution is permitted; modification is not.
+  Reproduced here as the published table, unchanged and in whole and carrying the
+  copyright notice — not restructured into per-item blocks, which would be an adaptation.
 - **DECIDE-AI** — the Nature Medicine version of record is paywalled; only a green
   accepted manuscript is openly available, and it carries no CC licence.
 - **CARE** — the checklist is free to download from care-statement.org, but neither
