@@ -4,9 +4,10 @@ Health-research reporting guidelines (EQUATOR Network) as structured Markdown, b
 read by AI coding agents and by people.
 
 Each guideline is one file under `guidelines/`, with YAML frontmatter carrying its version,
-DOI, and provenance, and one `### Item N` block per checklist item. No tables, no PDFs, no
-DOCX — just headings and prose, so items can be grepped, cited by number, and diffed
-line-by-line when a guideline is revised.
+DOI, and provenance, and one `### Item N` block per checklist item. No PDFs, no DOCX — just
+headings and prose, so items can be grepped, cited by number, and diffed line-by-line when a
+guideline is revised. One file departs from that: `target-2025.md` carries its checklist as a
+table, because a NoDerivatives licence permits reproducing it but not restructuring it.
 
 > **Guideline developers:** if your checklist appears here and you would rather it did not,
 > open an issue and it will be removed or reduced to metadata and a link, promptly and
@@ -24,7 +25,7 @@ recollection.
 ## Layout
 
 ```
-guidelines/          one .md per guideline, per-item blocks
+guidelines/          one .md per guideline, per-item blocks (target-2025.md: one table)
 references.bib       BibTeX for every guideline, each with an abstract or curated findings
 INVENTORY.md         status, versions, update watch-list, what is still missing
 ```
@@ -48,50 +49,50 @@ Cite a guideline in a manuscript with the key from `references.bib`, e.g. `[@pag
 
 | Guideline | Version | Items | Status |
 |---|---|---|---|
-| AGREE Reporting Checklist | 2016 | 23 | full item text |
-| ARRIVE 2.0 | 2.0 (2020) | 21 | full item text — supersedes ARRIVE (2010) |
-| BQQRG | 2025 | 24 | full item text |
-| Braun & Clarke 15-point checklist | 2013 | 15 | full item text |
-| CARE | 2013 | 13 | full item text |
-| CHEERS 2022 | 2022 | 28 | full item text — supersedes CHEERS 2013 |
-| CHEERS-AI | 2024 | 10 | **metadata only — licence forbids reproducing items here** |
-| CLAIM | 2024 update | 44 | **metadata only — licence forbids reproducing items here** |
-| CODE-EHR | 2022 | 8 | full item text |
-| CONSORT 2025 | 2025 | 30 | full item text — supersedes CONSORT 2010 |
-| CONSORT-AI | 2020 | 14 | full item text — extends consort-2025 |
-| CONSORT-Outcomes 2022 | 2022 | 17 | full item text — extends consort-2025 |
-| CONSORT-ROUTINE | 2021 | 13 | full item text — extends consort-2025 |
-| COREQ | 2007 | 32 | full item text |
-| DECIDE-AI | 2022 | 27 | full item text |
-| GREET | 2015 checklist (published 2016) | 17 | full item text — extends tidier-2014 |
-| MOOSE | 2000 | 34 | full item text |
-| PRISMA 2020 | 2020 | 27 | full item text — supersedes PRISMA 2009 |
-| PRISMA 2020 for Abstracts | 2020 | 12 | full item text — supersedes PRISMA for Abstracts (2013) |
-| PRISMA-DTA | 2018 | 27 | full item text — extends prisma-2020 |
-| PRISMA-E 2012 | 2012 | 16 | full item text — extends prisma-2020 |
-| PRISMA-LSR | 2024 | 4 | full item text — extends prisma-2020 |
-| PRISMA-P | 2015 | 17 | full item text |
-| PRISMA-S | 2021 | 16 | full item text — extends prisma-2020 |
-| PRISMA-ScR | 2018 | 22 | full item text — extends prisma-2020 |
-| RECORD | 2015 | 13 | full item text — extends strobe-2007 |
-| RECORD-PE | 2018 | 15 | full item text — extends strobe-2007, record-2015 |
-| RIGHT | 2017 | 22 | full item text |
-| RIGHT for PVG | 2021 | 17 | full item text — extends right-2017 |
-| Simulation-based research extensions | 2016 | 21 | full item text — extends consort-2025, strobe-2007 |
-| SPIRIT 2025 | 2025 | 34 | full item text — supersedes SPIRIT 2013 |
-| SPIRIT-AI | 2020 | 13 | full item text — extends spirit-2025 |
-| SQUIRE 2.0 | 2.0 (2015) | 18 | full item text — supersedes SQUIRE 1.0 |
-| SRQR | 2014 | 21 | full item text |
-| STARD 2015 | 2015 | 30 | full item text — supersedes STARD 2003 |
-| STARD-AI | 2025 | 44 | full item text — extends stard-2015 |
-| STROBE | 2007 | 22 | full item text |
-| STROBE-MR | 2021 | 20 | full item text — extends strobe-2007 |
-| TARGET | 2025 | 21 | full item text as a **verbatim table** (CC BY-ND) — layers on strobe-2007 |
-| TIDieR | 2014 | 12 | full item text — extends consort-2025, spirit-2025 |
-| TRIPOD | 2015 | 22 | **metadata only — licence forbids reproducing items here** |
-| TRIPOD+AI | 2024 | 27 | full item text — supersedes TRIPOD 2015 |
-| TRIPOD+AI for Abstracts | 2024 | 13 | full item text — extends tripod-ai-2024 |
-| TRIPOD-Cluster | 2023 | 19 | full item text — extends tripod-ai-2024 |
+| [AGREE Reporting Checklist](guidelines/agree-2016.md) | 2016 | 23 | full item text |
+| [ARRIVE 2.0](guidelines/arrive-2.0.md) | 2.0 (2020) | 21 | full item text — supersedes ARRIVE (2010) |
+| [BQQRG](guidelines/bqqrg-2025.md) | 2025 | 24 | full item text |
+| [Braun & Clarke 15-point checklist](guidelines/braun-clarke-ta-2013.md) | 2013 | 15 | full item text |
+| [CARE](guidelines/care-2013.md) | 2013 | 13 | full item text |
+| [CHEERS 2022](guidelines/cheers-2022.md) | 2022 | 28 | full item text — supersedes CHEERS 2013 |
+| [CHEERS-AI](guidelines/cheers-ai-2024.md) | 2024 | 10 | **metadata only — licence forbids reproducing items here** |
+| [CLAIM](guidelines/claim-2024.md) | 2024 update | 44 | **metadata only — licence forbids reproducing items here** |
+| [CODE-EHR](guidelines/code-ehr-2022.md) | 2022 | 8 | full item text |
+| [CONSORT 2025](guidelines/consort-2025.md) | 2025 | 30 | full item text — supersedes CONSORT 2010 |
+| [CONSORT-AI](guidelines/consort-ai-2020.md) | 2020 | 14 | full item text — extends [consort-2025](guidelines/consort-2025.md) |
+| [CONSORT-Outcomes 2022](guidelines/consort-outcomes-2022.md) | 2022 | 17 | full item text — extends [consort-2025](guidelines/consort-2025.md) |
+| [CONSORT-ROUTINE](guidelines/consort-routine-2021.md) | 2021 | 13 | full item text — extends [consort-2025](guidelines/consort-2025.md) |
+| [COREQ](guidelines/coreq-2007.md) | 2007 | 32 | full item text |
+| [DECIDE-AI](guidelines/decide-ai-2022.md) | 2022 | 27 | full item text |
+| [GREET](guidelines/greet-2016.md) | 2015 checklist (published 2016) | 17 | full item text — extends [tidier-2014](guidelines/tidier-2014.md) |
+| [MOOSE](guidelines/moose-2000.md) | 2000 | 34 | full item text |
+| [PRISMA 2020](guidelines/prisma-2020.md) | 2020 | 27 | full item text — supersedes PRISMA 2009 |
+| [PRISMA 2020 for Abstracts](guidelines/prisma-abstracts-2020.md) | 2020 | 12 | full item text — supersedes PRISMA for Abstracts (2013) |
+| [PRISMA-DTA](guidelines/prisma-dta-2018.md) | 2018 | 27 | full item text — extends [prisma-2020](guidelines/prisma-2020.md) |
+| [PRISMA-E 2012](guidelines/prisma-e-2012.md) | 2012 | 16 | full item text — extends [prisma-2020](guidelines/prisma-2020.md) |
+| [PRISMA-LSR](guidelines/prisma-lsr-2024.md) | 2024 | 4 | full item text — extends [prisma-2020](guidelines/prisma-2020.md) |
+| [PRISMA-P](guidelines/prisma-p-2015.md) | 2015 | 17 | full item text |
+| [PRISMA-S](guidelines/prisma-s-2021.md) | 2021 | 16 | full item text — extends [prisma-2020](guidelines/prisma-2020.md) |
+| [PRISMA-ScR](guidelines/prisma-scr-2018.md) | 2018 | 22 | full item text — extends [prisma-2020](guidelines/prisma-2020.md) |
+| [RECORD](guidelines/record-2015.md) | 2015 | 13 | full item text — extends [strobe-2007](guidelines/strobe-2007.md) |
+| [RECORD-PE](guidelines/record-pe-2018.md) | 2018 | 15 | full item text — extends [strobe-2007](guidelines/strobe-2007.md), [record-2015](guidelines/record-2015.md) |
+| [RIGHT](guidelines/right-2017.md) | 2017 | 22 | full item text |
+| [RIGHT for PVG](guidelines/right-pvg-2021.md) | 2021 | 17 | full item text — extends [right-2017](guidelines/right-2017.md) |
+| [Simulation-based research extensions](guidelines/simulation-2016.md) | 2016 | 21 | full item text — extends [consort-2025](guidelines/consort-2025.md), [strobe-2007](guidelines/strobe-2007.md) |
+| [SPIRIT 2025](guidelines/spirit-2025.md) | 2025 | 34 | full item text — supersedes SPIRIT 2013 |
+| [SPIRIT-AI](guidelines/spirit-ai-2020.md) | 2020 | 13 | full item text — extends [spirit-2025](guidelines/spirit-2025.md) |
+| [SQUIRE 2.0](guidelines/squire-2.0.md) | 2.0 (2015) | 18 | full item text — supersedes SQUIRE 1.0 |
+| [SRQR](guidelines/srqr-2014.md) | 2014 | 21 | full item text |
+| [STARD 2015](guidelines/stard-2015.md) | 2015 | 30 | full item text — supersedes STARD 2003 |
+| [STARD-AI](guidelines/stard-ai-2025.md) | 2025 | 44 | full item text — extends [stard-2015](guidelines/stard-2015.md) |
+| [STROBE](guidelines/strobe-2007.md) | 2007 | 22 | full item text |
+| [STROBE-MR](guidelines/strobe-mr-2021.md) | 2021 | 20 | full item text — extends [strobe-2007](guidelines/strobe-2007.md) |
+| [TARGET](guidelines/target-2025.md) | 2025 | 21 | full item text as a **verbatim table** (CC BY-ND) — layers on [strobe-2007](guidelines/strobe-2007.md) |
+| [TIDieR](guidelines/tidier-2014.md) | 2014 | 12 | full item text — extends [consort-2025](guidelines/consort-2025.md), [spirit-2025](guidelines/spirit-2025.md) |
+| [TRIPOD](guidelines/tripod-2015.md) | 2015 | 22 | **metadata only — licence forbids reproducing items here** |
+| [TRIPOD+AI](guidelines/tripod-ai-2024.md) | 2024 | 27 | full item text — supersedes TRIPOD 2015 |
+| [TRIPOD+AI for Abstracts](guidelines/tripod-ai-abstracts-2024.md) | 2024 | 13 | full item text — extends [tripod-ai-2024](guidelines/tripod-ai-2024.md) |
+| [TRIPOD-Cluster](guidelines/tripod-cluster-2023.md) | 2023 | 19 | full item text — extends [tripod-ai-2024](guidelines/tripod-ai-2024.md) |
 
 Every guideline in the original scope is now present with full item text. Remaining gaps
 are the extension checklists still to be added and the three metadata-only files listed in
